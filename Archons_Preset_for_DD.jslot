@@ -1,0 +1,726 @@
+{
+   "actor" : {
+      "hairColor" : 1445902,
+      "headTexture" : "Skyrim.esm|03B522",
+      "weight" : 50
+   },
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Female\\FemaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Male\\BlankDetailmap.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333071,
+         "formIdentifier" : "Skyrim.esm|05150F",
+         "type" : 1
+      },
+      {
+         "formId" : 967090,
+         "formIdentifier" : "Skyrim.esm|0EC1B2",
+         "type" : 2
+      },
+      {
+         "formId" : 1459658736,
+         "formIdentifier" : "TheEyesOfBeauty.esp|009FF0",
+         "type" : 3
+      },
+      {
+         "formId" : 385878534,
+         "formIdentifier" : "High Poly Head.esm|000A06",
+         "type" : 4
+      },
+      {
+         "formId" : 4261686667,
+         "formIdentifier" : "Kyoe BanginBrows.esp|042D8B",
+         "type" : 5
+      },
+      {
+         "formId" : 1426511058,
+         "formIdentifier" : "KS Hairdo's.esp|06D4D2",
+         "type" : 6
+      }
+   ],
+   "modNames" : [
+      "High Poly Head.esm",
+      "KS Hairdo's.esp",
+      "Kyoe BanginBrows.esp",
+      "Skyrim.esm",
+      "TheEyesOfBeauty.esp"
+   ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      },
+      {
+         "index" : 23,
+         "name" : "High Poly Head.esm"
+      },
+      {
+         "index" : 85,
+         "name" : "KS Hairdo's.esp"
+      },
+      {
+         "index" : 87,
+         "name" : "TheEyesOfBeauty.esp"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "CME_CheeksBlow",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_BrowSlope",
+            "value" : 0.4599999785423279
+         },
+         {
+            "name" : "NSK_EyelidOpen",
+            "value" : 0.199999988079071
+         },
+         {
+            "name" : "CME_UpperEyesHeight",
+            "value" : -0.429999977350235
+         },
+         {
+            "name" : "CME_EyelashLength",
+            "value" : 0.5600000023841858
+         },
+         {
+            "name" : "CME_NoseLength",
+            "value" : 0.03999999910593033
+         },
+         {
+            "name" : "CME_CheeksWidth",
+            "value" : -0.4099999964237213
+         },
+         {
+            "name" : "CME_JawBackForward",
+            "value" : -0.6899999976158142
+         },
+         {
+            "name" : "NSK_JawShape",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_ChinBackForward",
+            "value" : -0.2099999934434891
+         },
+         {
+            "name" : "CME_AroundNoseBackForward",
+            "value" : -0.2599999904632568
+         },
+         {
+            "name" : "NSK_LipThickness",
+            "value" : 0.2099999934434891
+         },
+         {
+            "name" : "NSK_NoseWidth",
+            "value" : 0.5799999833106995
+         },
+         {
+            "name" : "NSK_EyeAngle",
+            "value" : -0.2199999988079071
+         },
+         {
+            "name" : "CME_BrowBackForward",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_NoseSellionUpDown",
+            "value" : -0.6399999856948853
+         },
+         {
+            "name" : "CME_LowerLipHeight",
+            "value" : 0.5
+         },
+         {
+            "name" : "NSK_NoseTilt",
+            "value" : 0.3199999928474426
+         },
+         {
+            "name" : "CME_NoseSellionBackForward",
+            "value" : -0.4399999976158142
+         },
+         {
+            "name" : "ECE_NoseTipWidth",
+            "value" : -0.4599999785423279
+         },
+         {
+            "name" : "CME_MouthHeight",
+            "value" : -0.03999999910593033
+         },
+         {
+            "name" : "ECE_ChinBackForward",
+            "value" : 0.3799999952316284
+         },
+         {
+            "name" : "RANs_LipDuckly",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_NoseHoleSlope",
+            "value" : 0.3199999928474426
+         },
+         {
+            "name" : "NSK_CheekShape",
+            "value" : -1.409999966621399
+         },
+         {
+            "name" : "EFM_Cheek_Shape",
+            "value" : -0.03999999910593033
+         },
+         {
+            "name" : "CME_EyesSize",
+            "value" : 0.550000011920929
+         },
+         {
+            "name" : "CME_EyeballSize",
+            "value" : 0.08999999612569809
+         },
+         {
+            "name" : "EFM_Cheek_Width",
+            "value" : -0.3299999833106995
+         },
+         {
+            "name" : "CME_JawWidth",
+            "value" : -0.07999999821186066
+         },
+         {
+            "name" : "CME_NoseUpDown",
+            "value" : 0.1599999964237213
+         },
+         {
+            "name" : "CME_UpperLipHeight",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "ECE_EarSize",
+            "value" : -0.2099999934434891
+         },
+         {
+            "name" : "RANs_NoseRidgeShape",
+            "value" : 1.120000004768372
+         },
+         {
+            "name" : "NSK_NoseSellionWidth",
+            "value" : 0.07000000029802322
+         },
+         {
+            "name" : "CME_CheeksUpDown",
+            "value" : -0.4599999785423279
+         },
+         {
+            "name" : "CME_LipType",
+            "value" : 1
+         },
+         {
+            "name" : "NSK_NoseBridge",
+            "value" : 0.04999999701976776
+         },
+         {
+            "name" : "ECE_NoseBridgeWidth",
+            "value" : -0.5999999642372131
+         },
+         {
+            "name" : "CME_NoseBackForward",
+            "value" : -0.6100000143051147
+         },
+         {
+            "name" : "CME_BrowUpDown",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_NoseSellionWidth",
+            "value" : -0.119999997317791
+         },
+         {
+            "name" : "CME_ChinUpDown",
+            "value" : -0.3799999952316284
+         },
+         {
+            "name" : "CME_BrowArch",
+            "value" : 0.4699999988079071
+         },
+         {
+            "name" : "CME_MouthCornerUpDown",
+            "value" : 0.5799999833106995
+         },
+         {
+            "name" : "NSK_MouthWidth",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "NSK_MouthSmile",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_LowerEyesHeight",
+            "value" : 1.230000019073486
+         },
+         {
+            "name" : "CME_UnderChinSlope",
+            "value" : -0.07000000029802322
+         },
+         {
+            "name" : "CME_EyesHeight",
+            "value" : -0.3100000023841858
+         },
+         {
+            "name" : "CME_JawUpDown",
+            "value" : -0.2999999821186066
+         },
+         {
+            "name" : "RANs_HeadShape",
+            "value" : 1
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            0,
+            0.1000000014901161,
+            -0.699999988079071,
+            0,
+            -0.4000000059604645,
+            0.2000000029802322,
+            0,
+            0.1000000014901161,
+            -0.300000011920929,
+            -1,
+            -1,
+            -0.2000000029802322,
+            0.4000000059604645,
+            -0.699999988079071,
+            -0.800000011920929,
+            -0.699999988079071,
+            0.2000000029802322,
+            -0.1000000014901161,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 10, 4294967295, 21, 15 ]
+      },
+      "sculpt" : [
+         {
+            "data" : [
+               [ 2155, 0, 11, 4 ],
+               [ 1986, 26, -144, 64 ],
+               [ 420, -349, -547, -329 ],
+               [ 227, -25, -376, 88 ],
+               [ 2879, 0, 0, 0 ],
+               [ 226, -123, -831, 137 ],
+               [ 871, 2, -10, -8 ],
+               [ 872, 0, -1, 0 ],
+               [ 1486, 0, -3, 0 ],
+               [ 1988, -28, -12, 16 ],
+               [ 421, 25, -577, -199 ],
+               [ 1991, 115, -346, 44 ],
+               [ 232, 120, -59, 70 ],
+               [ 1140, 0, -35, 10 ],
+               [ 3084, -667, -1366, -324 ],
+               [ 1989, -7, -13, 10 ],
+               [ 3083, -86, -1029, -235 ],
+               [ 231, 0, 0, 0 ],
+               [ 470, -1, -1, 0 ],
+               [ 229, -3, -3, 1 ],
+               [ 1161, -298, -133, -88 ],
+               [ 1488, 8, -7, -5 ],
+               [ 455, 1, 0, 0 ],
+               [ 1152, 1, -2, 0 ],
+               [ 1487, 2, 0, 0 ],
+               [ 870, 0, -7, 12 ],
+               [ 453, 160, -82, 88 ],
+               [ 3194, 0, 0, 0 ],
+               [ 2198, 7, 2, -2 ],
+               [ 372, 0, 0, 0 ],
+               [ 2187, -6, -2, 3 ],
+               [ 1245, -4, 3, -3 ],
+               [ 2599, -1, -6, -5 ],
+               [ 3518, -176, -1497, -232 ],
+               [ 3515, 120, -2364, -606 ],
+               [ 3196, -5, -4, -3 ],
+               [ 1126, 14, -65, 55 ],
+               [ 401, 3, 39, 15 ],
+               [ 2162, -66, -63, -122 ],
+               [ 2600, 0, -6, 11 ],
+               [ 445, 1, -117, -15 ],
+               [ 1377, 133, -2248, -246 ],
+               [ 1378, 66, -1539, 107 ],
+               [ 3514, 535, -2183, -284 ],
+               [ 446, 17, -73, 2 ],
+               [ 2866, -26, -66, -62 ],
+               [ 448, 77, -1845, -498 ],
+               [ 449, 323, -1772, -240 ],
+               [ 1374, 464, -764, -842 ],
+               [ 450, 155, -866, -107 ],
+               [ 1128, 12, -102, 53 ],
+               [ 451, 23, -931, -222 ],
+               [ 452, 458, -757, 132 ],
+               [ 2883, 0, -40, 5 ],
+               [ 1162, 606, -1185, 33 ],
+               [ 1163, 602, -1110, -536 ],
+               [ 1232, 0, 0, 0 ],
+               [ 1375, 284, -1360, -455 ],
+               [ 1376, 1048, -2068, -445 ],
+               [ 2184, -36, -241, -27 ],
+               [ 1230, 0, 0, 0 ],
+               [ 2186, -78, -1011, -189 ],
+               [ 2878, -125, -231, 41 ],
+               [ 2163, 426, -373, -187 ],
+               [ 2185, -24, -32, 12 ],
+               [ 2183, 0, 0, 0 ],
+               [ 2882, -190, -293, -160 ],
+               [ 2182, -1, -5, 0 ],
+               [ 1160, 35, -84, -8 ],
+               [ 1367, 4, 5, -52 ],
+               [ 419, 37, -352, -552 ],
+               [ 447, 0, 0, 0 ],
+               [ 416, 209, -198, -275 ],
+               [ 417, 30, -85, -480 ],
+               [ 418, 351, -157, -194 ],
+               [ 403, 628, -47, -53 ],
+               [ 2156, 0, -3, 0 ],
+               [ 1144, 97, -28, -8 ],
+               [ 2621, -1, -1, -4 ],
+               [ 404, 56, -61, -49 ],
+               [ 1141, 0, 0, 0 ],
+               [ 402, 518, -55, -44 ],
+               [ 400, 94, 47, 36 ],
+               [ 3082, -208, -221, -441 ],
+               [ 2150, -258, -67, -8 ],
+               [ 405, 5, 75, 177 ],
+               [ 2152, -65, 2, -28 ],
+               [ 399, 96, -3, -8 ],
+               [ 406, 0, 86, 64 ],
+               [ 2157, 2, -34, -1 ],
+               [ 1145, 82, -54, -50 ],
+               [ 3466, 2, 0, 0 ],
+               [ 398, 0, 6, -10 ],
+               [ 2151, -18, 18, 12 ],
+               [ 2153, -3, 0, -4 ],
+               [ 2154, 0, 0, 0 ],
+               [ 2165, -88, -34, -47 ],
+               [ 2164, 63, -75, -229 ],
+               [ 3078, 22, 6, 17 ],
+               [ 409, -4, -135, 10 ],
+               [ 412, -1, -86, -89 ],
+               [ 413, -3, -150, -314 ],
+               [ 414, -13, -354, -11 ],
+               [ 1164, 6, -209, 22 ],
+               [ 415, -3, -25, 1 ],
+               [ 1165, -3, 37, -274 ],
+               [ 1130, -4, 167, -315 ],
+               [ 410, 0, -1, 0 ],
+               [ 408, 0, -2, 0 ],
+               [ 411, 0, -1, 0 ],
+               [ 2848, -2, -26, 13 ],
+               [ 2864, -16, -16, -17 ],
+               [ 1373, 83, -261, -242 ],
+               [ 1146, 79, -160, -162 ],
+               [ 2865, -2, 0, -1 ],
+               [ 2881, 175, 46, 20 ],
+               [ 3081, -27, -89, -88 ],
+               [ 1372, -92, -69, 167 ],
+               [ 895, -3, -16, -16 ],
+               [ 894, -202, 17, 108 ],
+               [ 896, 11, -5, 0 ],
+               [ 2623, 117, 9, 63 ],
+               [ 2871, 0, 0, 0 ],
+               [ 2877, -3, -13, -6 ],
+               [ 3079, 49, -34, 92 ],
+               [ 2620, 1, -6, -8 ],
+               [ 2880, 33, 5, 23 ],
+               [ 892, 2, -4, -12 ],
+               [ 1370, -33, 9, 24 ],
+               [ 1158, -75, 4, 50 ],
+               [ 891, -135, 68, 26 ],
+               [ 1159, -1, -1, 0 ],
+               [ 2126, 0, 1, -10 ],
+               [ 2625, 28, 14, 11 ],
+               [ 3077, 27, 18, 20 ],
+               [ 2624, 69, 36, 12 ],
+               [ 2619, -1, 0, 0 ],
+               [ 2626, 2, 0, 1 ],
+               [ 3080, 10, 2, 8 ],
+               [ 2962, 0, 0, 0 ],
+               [ 2961, 10, 11, -11 ],
+               [ 3519, 0, 0, 0 ],
+               [ 3075, 17, 18, 18 ],
+               [ 2963, 1, 0, 0 ],
+               [ 2127, 1, 0, -1 ],
+               [ 2129, -10, -7, 2 ],
+               [ 1371, -9, 2, 7 ],
+               [ 3076, -1, 1, -16 ],
+               [ 2133, 0, 0, 0 ],
+               [ 1244, 0, 0, -1 ],
+               [ 893, -8, 3, 7 ],
+               [ 890, -43, 23, 18 ],
+               [ 1368, -22, 24, 24 ],
+               [ 897, 1, 0, 0 ],
+               [ 1369, -24, 18, 18 ],
+               [ 1246, -13, 14, -13 ],
+               [ 370, 0, 1, -7 ],
+               [ 371, 16, -11, 4 ],
+               [ 373, 0, 0, 0 ],
+               [ 374, 4, -2, -4 ],
+               [ 1622, -3, 1, 0 ],
+               [ 1618, 0, 0, 0 ]
+            ],
+            "host" : "KL\\High Poly Head\\FemaleHeadCharGen.tri",
+            "vertices" : 3832
+         }
+      ],
+      "sculptDivisor" : 10000
+   },
+   "tintInfo" : [
+      {
+         "color" : 4291743180,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 7830417,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 131333,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 12409213,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 3489651185,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadNord_Lips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Nose.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 1562005297,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Overlays\\Sakora's Makeover Kit\\Sakora's Makeup\\Details-Eyeshadow4.dds"
+      },
+      {
+         "color" : 705569810,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Overlays\\Sakora's Makeover Kit\\Sakora's Makeup\\Details-Eyeshadow6.dds"
+      },
+      {
+         "color" : 1511202091,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Overlays\\Sakora's Makeover Kit\\Sakora's Makeup\\Details-Eyeliner.dds"
+      },
+      {
+         "color" : 666722407,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Overlays\\Sakora's Makeover Kit\\Sakora's Makeup\\Details-Cheeks.dds"
+      },
+      {
+         "color" : 1607901615,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Overlays\\Sakora's Makeover Kit\\Sakora's Makeup\\Details-Lips.dds"
+      },
+      {
+         "color" : 1297815084,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Lips\\Border 1.dds"
+      },
+      {
+         "color" : 2852120800,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Highlights 1.dds"
+      },
+      {
+         "color" : 1029248550,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Contours 4.dds"
+      },
+      {
+         "color" : 65569,
+         "index" : 19,
+         "texture" : "Actors\\YevMods - Makeup Pack YMMP\\YMMP Waterline.dds"
+      },
+      {
+         "color" : 16760792,
+         "index" : 20,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_05.dds"
+      },
+      {
+         "color" : 1143621,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadNordWarPaint_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadNordWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 23,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadNordWarPaint_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 24,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadNordWarPaint_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadNordWarPaint_05.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadBothiahTattoo_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadBlackBloodTattoo_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadBlackBloodTattoo_02.dds"
+      },
+      {
+         "color" : 6994,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 30,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 31,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 32,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_03.dds"
+      }
+   ],
+   "transforms" : [
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : 0.0001317585993092507,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.01702718622982502,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.3869581520557404,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME L Thigh [LThg]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : -3.309275416540913e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.008528105914592743,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.1874962449073792,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME R Thigh [RThg]"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}

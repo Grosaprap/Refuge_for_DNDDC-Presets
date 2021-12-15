@@ -1,0 +1,3390 @@
+{
+   "actor" : {
+      "hairColor" : 328197,
+      "headTexture" : "Skyrim.esm|019390",
+      "weight" : 100
+   },
+   "bodyMorphs" : [
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "BreastHeight"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 4
+            }
+         ],
+         "name" : "XPMSEAAID"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5
+            }
+         ],
+         "name" : "MuscleBack_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "CBPC"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 7
+            }
+         ],
+         "name" : "XPMSEAABase_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "SlimThighs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "7B Lower"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1000000014901161
+            }
+         ],
+         "name" : "WaistHeight"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1299999952316284
+            }
+         ],
+         "name" : "WideWaistLine"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "Clit"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "MuscleArms"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5
+            }
+         ],
+         "name" : "ChubbyLegs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "ClitSwell_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "Cutepuffyness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1000000014901161
+            }
+         ],
+         "name" : "BreastPerkiness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "CrotchGap"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "BigTorso"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "Butt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "7B Upper"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "Breasts"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "MuscleButt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "BreastCleavage"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "hips"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5
+            }
+         ],
+         "name" : "MuscleLegs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "BreastsTogether"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "HipBone"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "ChubbyWaist"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.2000000029802322
+            }
+         ],
+         "name" : "Back"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Waist"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "ChubbyArms"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.02999999932944775
+            }
+         ],
+         "name" : "LegSpread_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "ChubbyButt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "Thighs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "ThighOutsideThicc_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -1
+            }
+         ],
+         "name" : "AnkleSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -1
+            }
+         ],
+         "name" : "ThighInsideThicc_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "CalfSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "FeetFeminine"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5
+            }
+         ],
+         "name" : "MuscleAbs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5
+            }
+         ],
+         "name" : "MusclePecs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5
+            }
+         ],
+         "name" : "Belly"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "TummyTuck"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 14
+            }
+         ],
+         "name" : "XPMSEAABase_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 2
+            }
+         ],
+         "name" : "XPMSEAARange_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 6
+            }
+         ],
+         "name" : "XPMSEAARange_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_shout"
+      }
+   ],
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Female\\FemaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\DarkElfFemale\\FemaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Male\\BlankDetailmap.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333071,
+         "formIdentifier" : "Skyrim.esm|05150F",
+         "type" : 0
+      },
+      {
+         "formId" : 385878531,
+         "formIdentifier" : "High Poly Head.esm|000A03",
+         "type" : 1
+      },
+      {
+         "formId" : 967090,
+         "formIdentifier" : "Skyrim.esm|0EC1B2",
+         "type" : 2
+      },
+      {
+         "formId" : 1426455748,
+         "formIdentifier" : "KS Hairdo's.esp|05FCC4",
+         "type" : 3
+      },
+      {
+         "formId" : 1459637885,
+         "formIdentifier" : "TheEyesOfBeauty.esp|004E7D",
+         "type" : 6
+      },
+      {
+         "formId" : 4261686665,
+         "formIdentifier" : "Kyoe BanginBrows.esp|042D89",
+         "type" : 7
+      }
+   ],
+   "modNames" : [
+      "High Poly Head.esm",
+      "KS Hairdo's.esp",
+      "Kyoe BanginBrows.esp",
+      "Skyrim.esm",
+      "TheEyesOfBeauty.esp"
+   ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      },
+      {
+         "index" : 23,
+         "name" : "High Poly Head.esm"
+      },
+      {
+         "index" : 85,
+         "name" : "KS Hairdo's.esp"
+      },
+      {
+         "index" : 87,
+         "name" : "TheEyesOfBeauty.esp"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "EFM_Nose_Wing_Height",
+            "value" : 0.2299999892711639
+         },
+         {
+            "name" : "CME_AroundNoseBackForward",
+            "value" : 0.03999999910593033
+         },
+         {
+            "name" : "CME_CheeksBoneInOut",
+            "value" : -0.6899999976158142
+         },
+         {
+            "name" : "EFM_Brow_Height",
+            "value" : 1.039999961853027
+         },
+         {
+            "name" : "CME_CheeksBlow",
+            "value" : 0.3799999952316284
+         },
+         {
+            "name" : "CME_JawBackForward",
+            "value" : -0.2299999892711639
+         },
+         {
+            "name" : "CME_EyesType",
+            "value" : 20
+         },
+         {
+            "name" : "CME_JawWidth",
+            "value" : 0.1299999952316284
+         },
+         {
+            "name" : "RANs_Age",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_CheeksUpDown",
+            "value" : 0.1499999910593033
+         },
+         {
+            "name" : "EFM_Face_Height",
+            "value" : 2.099999904632568
+         },
+         {
+            "name" : "CME_NoseLength",
+            "value" : 0.07999999821186066
+         },
+         {
+            "name" : "CME_ElfEar",
+            "value" : -0.5999999642372131
+         },
+         {
+            "name" : "CME_MouthWidth",
+            "value" : 0.3400000035762787
+         },
+         {
+            "name" : "CME_JawUpDown",
+            "value" : 0.2299999892711639
+         },
+         {
+            "name" : "CME_NoseBackForward",
+            "value" : -0.09999999403953552
+         },
+         {
+            "name" : "RANs_LipDuckly",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_NoseHoleSlope",
+            "value" : -0.3100000023841858
+         },
+         {
+            "name" : "CME_NoseSellionBackForward",
+            "value" : -0.03999999910593033
+         },
+         {
+            "name" : "EFM_Lip_Upper_Thickness",
+            "value" : 3
+         },
+         {
+            "name" : "CME_NoseSellionUpDown",
+            "value" : 0.2299999892711639
+         },
+         {
+            "name" : "CME_NoseSellionWidth",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "EFM_Eyes_Size",
+            "value" : 0.7199999690055847
+         },
+         {
+            "name" : "EFM_Cheek_Depth",
+            "value" : 0.7999999523162842
+         },
+         {
+            "name" : "NSK_EyelidOpen",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "EFM_Cheek_Height",
+            "value" : 1.599999904632568
+         },
+         {
+            "name" : "CME_EyesSize",
+            "value" : 2.059999942779541
+         },
+         {
+            "name" : "EFM_Cheek_Shape",
+            "value" : -0.03999999910593033
+         },
+         {
+            "name" : "CME_EyeballSize",
+            "value" : -1.439999938011169
+         },
+         {
+            "name" : "CME_EyesSlope",
+            "value" : -0.699999988079071
+         },
+         {
+            "name" : "EFM_Jaw_Height",
+            "value" : -0.4599999785423279
+         },
+         {
+            "name" : "EFM_Eyes_Outer_Height",
+            "value" : 2.419999837875366
+         },
+         {
+            "name" : "EFM_Eyes_Height",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Jaw_Shape",
+            "value" : -0.3400000035762787
+         },
+         {
+            "name" : "EFM_Jaw_Width",
+            "value" : 0.07999999821186066
+         },
+         {
+            "name" : "EFM_Nose_Size",
+            "value" : 0.2999999821186066
+         },
+         {
+            "name" : "EFM_Eyes_Outer_Width",
+            "value" : -0.5699999928474426
+         },
+         {
+            "name" : "EFM_Nose_Bridge_Depth",
+            "value" : 0.4199999868869781
+         },
+         {
+            "name" : "EFM_Nose_Bridge_Width",
+            "value" : -0.1499999910593033
+         },
+         {
+            "name" : "EFM_Nose_Tip_Depth",
+            "value" : 0.6499999761581421
+         },
+         {
+            "name" : "EFM_Brow_Thickness",
+            "value" : 1.639999985694885
+         },
+         {
+            "name" : "EFM_Nose_Tip_Height",
+            "value" : 0.8399999737739563
+         },
+         {
+            "name" : "EFM_Nose_Tip_Thickness",
+            "value" : -0.5
+         },
+         {
+            "name" : "EFM_Lip_Width",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "CME_EyeballInOut",
+            "value" : -0.6599999666213989
+         },
+         {
+            "name" : "EFM_Nose_Tip_Width",
+            "value" : -1.409999966621399
+         },
+         {
+            "name" : "EFM_Nose_Width",
+            "value" : -0.4599999785423279
+         },
+         {
+            "name" : "EFM_Nose_Wing_Thickness",
+            "value" : 0.5099999904632568
+         },
+         {
+            "name" : "EFM_Eyeball_Depth",
+            "value" : 1.149999976158142
+         },
+         {
+            "name" : "EFM_Eyes_Inner_Width",
+            "value" : 1.189999938011169
+         },
+         {
+            "name" : "EFM_Lip_Lower_Thickness",
+            "value" : 3
+         },
+         {
+            "name" : "ECE_EarShape",
+            "value" : 6
+         },
+         {
+            "name" : "EFM_Brow_Angle",
+            "value" : -0.9599999785423279
+         },
+         {
+            "name" : "RANs_HeadShape",
+            "value" : 4
+         },
+         {
+            "name" : "EFM_Eyes_Lower_Shape",
+            "value" : -1.899999976158142
+         },
+         {
+            "name" : "EFM_Eyeball_Height",
+            "value" : 0.3100000023841858
+         },
+         {
+            "name" : "NSK_EyeSize",
+            "value" : 1.269999980926514
+         },
+         {
+            "name" : "EFM_Eyes_Lower_Height",
+            "value" : 1.789999961853027
+         },
+         {
+            "name" : "CME_BrowInOut",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Eyes_Inner_Height",
+            "value" : 3
+         },
+         {
+            "name" : "EFM_Eyes_Inner_Thickness",
+            "value" : -3
+         },
+         {
+            "name" : "EFM_Eyes_Outer_Thickness",
+            "value" : -1.069999933242798
+         },
+         {
+            "name" : "NSK_BrowAngle",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_BrowArch",
+            "value" : 1.870000004768372
+         },
+         {
+            "name" : "EFM_Eyelid_Upper",
+            "value" : -0.07999999821186066
+         },
+         {
+            "name" : "EFM_Eyes_Upper_Height",
+            "value" : 0.4599999785423279
+         },
+         {
+            "name" : "EFM_Eyes_Upper_Shape",
+            "value" : -0.4199999868869781
+         },
+         {
+            "name" : "EFM_Lip_Angle",
+            "value" : 1.370000004768372
+         },
+         {
+            "name" : "EFM_Lip_Lower_Width",
+            "value" : 1.71999990940094
+         },
+         {
+            "name" : "EFM_Oral_Height",
+            "value" : -0.07999999821186066
+         },
+         {
+            "name" : "EFM_Oral_Depth",
+            "value" : -0.2999999821186066
+         },
+         {
+            "name" : "CME_DarkElf",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_EarUpDown",
+            "value" : -0.2099999934434891
+         },
+         {
+            "name" : "CME_UpperEyesHeight",
+            "value" : -2.720000028610229
+         },
+         {
+            "name" : "CME_LowerEyesHeight",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_EyeballUpDown",
+            "value" : -0.3700000047683716
+         },
+         {
+            "name" : "CME_EyesInOut",
+            "value" : 0.3400000035762787
+         },
+         {
+            "name" : "NSK_MouthSmile",
+            "value" : -0.5
+         },
+         {
+            "name" : "NSK_MouthWidth",
+            "value" : -0.5399999618530273
+         },
+         {
+            "name" : "CME_LipType",
+            "value" : 25
+         },
+         {
+            "name" : "EXPR_Eh",
+            "value" : 0.07999999821186066
+         },
+         {
+            "name" : "EXPR_FV",
+            "value" : 0.7599999904632568
+         },
+         {
+            "name" : "EXPR_MoodHappy",
+            "value" : 0.6599999666213989
+         },
+         {
+            "name" : "EXPR_MoodSurprise",
+            "value" : 0.5
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            -0.6000000238418579,
+            -0.1000000014901161,
+            -0.5,
+            -0.6000000238418579,
+            -0.6000000238418579,
+            0,
+            -0.1000000014901161,
+            -0.6000000238418579,
+            -0.5,
+            -1,
+            0.4000000059604645,
+            0,
+            -0.6000000238418579,
+            0.300000011920929,
+            -0.300000011920929,
+            -0.9000000357627869,
+            -0.1000000014901161,
+            -1,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 30, 4294967295, 26, 1 ]
+      },
+      "sculpt" : [
+         {
+            "data" : [
+               [ 878, 351, -359, 176 ],
+               [ 2235, 71, -157, 1691 ],
+               [ 227, 1392, -2020, 2109 ],
+               [ 232, 1587, -1993, 1212 ],
+               [ 466, 792, -2915, 971 ],
+               [ 2538, 139, 222, 30 ],
+               [ 864, 1076, -3574, 248 ],
+               [ 2888, -156, 278, -164 ],
+               [ 3125, 55, 69, 63 ],
+               [ 467, 959, -3091, 1235 ],
+               [ 2220, 813, -86, -113 ],
+               [ 869, 1128, -3471, -190 ],
+               [ 866, 520, -2874, 535 ],
+               [ 867, 574, -3182, 443 ],
+               [ 3242, 197, -122, 410 ],
+               [ 868, 966, -3602, -66 ],
+               [ 1490, 612, -3280, 805 ],
+               [ 471, -55, -2051, 455 ],
+               [ 3196, -823, -2366, 709 ],
+               [ 1188, 1382, -2185, 502 ],
+               [ 1603, -172, -66, 2080 ],
+               [ 498, -44, -119, -107 ],
+               [ 1486, 1215, -2584, 1261 ],
+               [ 3181, 1, 3, -2 ],
+               [ 1988, -1639, -2007, 1138 ],
+               [ 2901, 18, -414, 310 ],
+               [ 2244, -1250, -783, 1966 ],
+               [ 877, 70, -672, -203 ],
+               [ 1487, 1249, -2541, 739 ],
+               [ 822, -436, -199, -176 ],
+               [ 1488, 650, -2429, 829 ],
+               [ 2910, -445, -96, -29 ],
+               [ 364, -15, 0, 0 ],
+               [ 1183, -242, -506, -179 ],
+               [ 2597, -860, -3250, -220 ],
+               [ 2190, 21, -313, -1029 ],
+               [ 1489, 79, -2754, 657 ],
+               [ 166, 27, -155, 49 ],
+               [ 455, 1351, -1834, 828 ],
+               [ 1491, 168, -3120, 262 ],
+               [ 2657, -87, -326, 472 ],
+               [ 1492, 1141, -3028, 182 ],
+               [ 1364, -8, 85, 27 ],
+               [ 2207, -302, -2512, 908 ],
+               [ 2906, -1224, -1151, 556 ],
+               [ 2593, -898, -3637, -355 ],
+               [ 2058, 110, -88, 24 ],
+               [ 1493, 1289, -2354, -50 ],
+               [ 865, 1366, -3577, 247 ],
+               [ 881, -193, 9, 55 ],
+               [ 2905, -1117, -291, 223 ],
+               [ 224, 1250, -2116, 1972 ],
+               [ 2900, -115, 97, 293 ],
+               [ 876, 818, -1557, 608 ],
+               [ 1185, 1135, -2185, 185 ],
+               [ 3209, 29, -136, 192 ],
+               [ 819, -148, -117, -304 ],
+               [ 2525, 3, 29, 0 ],
+               [ 1186, 827, -3001, 37 ],
+               [ 3194, -1402, -2506, 458 ],
+               [ 218, -27, 10, -13 ],
+               [ 863, 1043, -2808, 1193 ],
+               [ 2685, 512, 408, -212 ],
+               [ 468, 400, -2456, 575 ],
+               [ 1528, 706, -456, 1244 ],
+               [ 1609, -631, -249, -292 ],
+               [ 862, 920, -3034, 597 ],
+               [ 225, 500, -763, 1701 ],
+               [ 1494, 701, -1152, -39 ],
+               [ 506, -108, -125, 1605 ],
+               [ 1611, -1186, -223, 630 ],
+               [ 1181, 179, -2040, 278 ],
+               [ 2670, 1438, 95, -201 ],
+               [ 518, 1518, -1103, 1225 ],
+               [ 2907, -1902, -2009, 1234 ],
+               [ 516, 892, -587, 1229 ],
+               [ 1975, 144, 42, -218 ],
+               [ 469, 658, -2322, 491 ],
+               [ 875, 319, -1812, 194 ],
+               [ 2899, 72, -83, -29 ],
+               [ 1179, 152, -1264, 152 ],
+               [ 1182, 370, -785, 227 ],
+               [ 1317, -25, -106, -65 ],
+               [ 1620, -63, 20, -9 ],
+               [ 1180, 302, -664, -32 ],
+               [ 519, 917, 96, 925 ],
+               [ 1189, 1230, -1400, 299 ],
+               [ 3197, -350, -2680, 406 ],
+               [ 2960, 928, 442, -44 ],
+               [ 978, -35, -132, -176 ],
+               [ 3195, -1315, -2623, 1072 ],
+               [ 1187, 1368, -979, 46 ],
+               [ 2673, -155, -973, 770 ],
+               [ 2528, -74, -23, 13 ],
+               [ 456, -362, 126, -44 ],
+               [ 470, -4, -2647, 957 ],
+               [ 1663, -778, -741, 1026 ],
+               [ 3214, 15, 18, 20 ],
+               [ 1190, 1627, -618, 190 ],
+               [ 465, -974, -16, -357 ],
+               [ 2226, 916, -260, -765 ],
+               [ 517, 167, -30, 516 ],
+               [ 3367, -111, -1579, 1287 ],
+               [ 1985, -1438, -2107, 2190 ],
+               [ 2199, -1801, -3016, 1496 ],
+               [ 288, -105, 119, 50 ],
+               [ 2019, 44, -27, -4 ],
+               [ 2592, -1023, -3787, -679 ],
+               [ 2595, -449, -3502, -1347 ],
+               [ 2596, -468, -3708, -1311 ],
+               [ 2598, -566, -2896, 217 ],
+               [ 1977, 183, 66, -173 ],
+               [ 853, -842, -445, -328 ],
+               [ 2204, 27, -1567, 145 ],
+               [ 3200, -562, -2181, -478 ],
+               [ 2081, 150, 86, -54 ],
+               [ 2896, 46, -335, -64 ],
+               [ 1502, -116, 194, -125 ],
+               [ 2591, -812, -3035, 59 ],
+               [ 1501, -20, 18, -8 ],
+               [ 2210, 506, -1043, -390 ],
+               [ 2537, -32, -26, 12 ],
+               [ 3198, -1060, -2978, -85 ],
+               [ 958, -6, -9, 1 ],
+               [ 2902, -215, -2067, -498 ],
+               [ 3199, -1494, -3298, 312 ],
+               [ 1191, 842, -900, 54 ],
+               [ 3030, -167, 42, 130 ],
+               [ 308, -2551, 357, -267 ],
+               [ 3201, -1175, -3331, 754 ],
+               [ 2205, 379, -1298, 51 ],
+               [ 294, -149, 212, 1181 ],
+               [ 1984, -1372, -2220, 2154 ],
+               [ 2197, 1035, 44, -385 ],
+               [ 2200, -981, -2147, 812 ],
+               [ 2535, -27, -20, 58 ],
+               [ 3188, -919, 495, 765 ],
+               [ 1419, -205, 253, 336 ],
+               [ 2594, -1090, -2879, 1129 ],
+               [ 2264, 55, 29, -6 ],
+               [ 833, -5, 13, 65 ],
+               [ 2895, 65, -447, -215 ],
+               [ 2560, 34, 30, 36 ],
+               [ 1987, -663, -908, 2271 ],
+               [ 1604, -182, 89, -190 ],
+               [ 2959, 573, 585, 46 ],
+               [ 3031, -187, -9, -10 ],
+               [ 2903, -504, -2400, -171 ],
+               [ 1986, -620, -1078, 1887 ],
+               [ 2243, -1830, -1262, 1608 ],
+               [ 1927, 578, 381, -403 ],
+               [ 2604, -1118, -1668, 829 ],
+               [ 532, -44, 121, -215 ],
+               [ 2203, -200, -1469, 135 ],
+               [ 533, 67, -107, 43 ],
+               [ 2605, -337, -2255, -281 ],
+               [ 1448, -11, -6, -11 ],
+               [ 3029, -505, -20, 0 ],
+               [ 2245, -633, -167, 1618 ],
+               [ 1992, -315, -229, 1504 ],
+               [ 3185, -25, -13, -79 ],
+               [ 302, -1461, -151, -270 ],
+               [ 2242, -1522, 3, 1624 ],
+               [ 2887, -74, 166, -52 ],
+               [ 799, 48, -80, 67 ],
+               [ 2606, -957, -400, 472 ],
+               [ 2897, -290, -910, 92 ],
+               [ 1518, -23, -6, 138 ],
+               [ 3462, -258, -362, 244 ],
+               [ 2607, -350, -805, -234 ],
+               [ 535, -37, -155, -33 ],
+               [ 1035, 0, 0, -1 ],
+               [ 954, -529, 402, -221 ],
+               [ 3187, -623, 386, -132 ],
+               [ 1034, -229, 179, -179 ],
+               [ 3186, -252, 151, -217 ],
+               [ 493, -863, -266, -769 ],
+               [ 2517, -447, -621, 930 ],
+               [ 3202, -199, -1112, -271 ],
+               [ 182, -490, 219, -669 ],
+               [ 2206, -201, -1904, 524 ],
+               [ 3032, -237, -4, -1 ],
+               [ 2089, -74, -95, 132 ],
+               [ 2904, -1305, -620, 557 ],
+               [ 880, -63, -31, 41 ],
+               [ 2911, -44, -567, -221 ],
+               [ 2202, -1415, -3032, 1364 ],
+               [ 2527, -245, 0, -43 ],
+               [ 2849, 864, 84, -370 ],
+               [ 184, 520, -1787, -424 ],
+               [ 777, 2, 3, -16 ],
+               [ 2201, -771, -2317, 781 ],
+               [ 2908, -936, -100, 58 ],
+               [ 2779, -161, 25, 150 ],
+               [ 1081, -1146, -21, -179 ],
+               [ 2909, -703, -754, 91 ],
+               [ 3312, -184, 179, -312 ],
+               [ 1240, -657, 474, 348 ],
+               [ 3028, -497, -107, 42 ],
+               [ 2213, 1280, -447, -1127 ],
+               [ 474, 126, -1652, -20 ],
+               [ 870, -255, -2010, 982 ],
+               [ 2894, -5, 13, -2 ],
+               [ 322, 59, -49, -10 ],
+               [ 2048, -132, -129, 710 ],
+               [ 1475, -144, 65, -141 ],
+               [ 3208, -6, -75, 52 ],
+               [ 1184, -106, -312, -96 ],
+               [ 2276, -99, -124, -27 ],
+               [ 781, 240, -357, 493 ],
+               [ 1495, 524, -431, 172 ],
+               [ 821, -144, -644, 926 ],
+               [ 320, 0, 39, 0 ],
+               [ 1473, -31, 4, -89 ],
+               [ 3234, 6, 1, -2 ],
+               [ 477, -912, -1306, -637 ],
+               [ 3497, 54, -32, 37 ],
+               [ 3800, 1, 0, 0 ],
+               [ 1322, 150, -348, -190 ],
+               [ 1201, -384, 76, -11 ],
+               [ 1318, 100, -87, 131 ],
+               [ 3221, 267, 166, 391 ],
+               [ 1197, -373, -92, -167 ],
+               [ 321, -1, 8, -6 ],
+               [ 2776, 68, 5, 146 ],
+               [ 307, -2884, 472, -389 ],
+               [ 1319, -32, 58, 150 ],
+               [ 2646, 40, 94, 210 ],
+               [ 1476, 94, 5, 132 ],
+               [ 1621, 24, -41, 6 ],
+               [ 1477, 108, 223, -55 ],
+               [ 489, -1112, -84, -228 ],
+               [ 551, -5, -26, 6 ],
+               [ 1470, 5, -18, 16 ],
+               [ 1471, 10, -22, -38 ],
+               [ 3320, 151, 78, 40 ],
+               [ 1168, 17, 1, 0 ],
+               [ 1169, 8, 31, -5 ],
+               [ 2050, 146, 228, 1247 ],
+               [ 1469, 1, -2, -5 ],
+               [ 1078, -1395, 81, -100 ],
+               [ 806, 27, -20, 54 ],
+               [ 1472, 13, 11, -5 ],
+               [ 1617, -3, 0, 6 ],
+               [ 1193, 55, -647, -223 ],
+               [ 1453, -126, -398, 791 ],
+               [ 1478, 85, 67, 91 ],
+               [ 490, -1150, -79, 480 ],
+               [ 2514, 53, 383, 354 ],
+               [ 1320, 68, -18, 6 ],
+               [ 250, -5, 9, 0 ],
+               [ 1238, -509, 341, 256 ],
+               [ 251, 5, -1, -1 ],
+               [ 1321, 168, -68, 9 ],
+               [ 2100, 471, -294, -94 ],
+               [ 3495, 144, -11, -1 ],
+               [ 254, -23, 11, -18 ],
+               [ 2198, 1960, 33, -427 ],
+               [ 883, -218, 52, -376 ],
+               [ 255, 0, 0, -2 ],
+               [ 2601, 1250, -631, -99 ],
+               [ 1192, 1243, -185, 212 ],
+               [ 2263, -19, -32, 12 ],
+               [ 3492, -8, 5, -1 ],
+               [ 1323, 78, 42, 46 ],
+               [ 473, -219, -1752, -21 ],
+               [ 1198, -74, -27, -2 ],
+               [ 3218, -609, -174, 461 ],
+               [ 1194, 285, -74, 5 ],
+               [ 2915, 110, 44, 51 ],
+               [ 827, -59, 86, 61 ],
+               [ 2026, -43, -391, -15 ],
+               [ 2211, 716, -1096, -472 ],
+               [ 3159, 12, 0, 3 ],
+               [ 966, 189, 12, -1087 ],
+               [ 3027, 322, -26, -57 ],
+               [ 2777, -4, -5, 237 ],
+               [ 2898, 106, -168, -192 ],
+               [ 874, -1678, -617, -672 ],
+               [ 3203, -212, -104, 212 ],
+               [ 2014, 91, 84, -67 ],
+               [ 2079, -16, -4, 6 ],
+               [ 2784, -179, 173, 188 ],
+               [ 3184, 1, -38, -75 ],
+               [ 1507, -92, 181, -10 ],
+               [ 2080, -13, 32, 31 ],
+               [ 1030, -494, 427, -950 ],
+               [ 3182, 2, 9, 16 ],
+               [ 2097, -3, 0, 0 ],
+               [ 2013, -2, -61, -3 ],
+               [ 2708, -144, -302, -311 ],
+               [ 2015, -19, -5, -6 ],
+               [ 1616, -21, 22, 13 ],
+               [ 3161, 168, 8, -179 ],
+               [ 2016, 21, 20, 0 ],
+               [ 2017, 0, 0, -1 ],
+               [ 2654, 4, 142, 350 ],
+               [ 3026, 2, 0, -3 ],
+               [ 2135, -40, 6, -11 ],
+               [ 3364, 99, -1243, 1087 ],
+               [ 1990, 267, 96, 267 ],
+               [ 3496, -31, 0, 10 ],
+               [ 219, -337, 15, -316 ],
+               [ 3207, -51, -6, 15 ],
+               [ 300, -515, -197, 106 ],
+               [ 2010, 37, -531, -70 ],
+               [ 2195, 399, -46, 4 ],
+               [ 2011, 18, -47, -70 ],
+               [ 975, -309, -281, -598 ],
+               [ 1325, 4, -4, 5 ],
+               [ 1513, 794, -370, 614 ],
+               [ 2070, -8, -505, -20 ],
+               [ 1926, 258, 98, 380 ],
+               [ 2071, 44, -1118, -79 ],
+               [ 3171, 131, -68, -177 ],
+               [ 1083, -957, -237, -463 ],
+               [ 2952, 1, -15, 4 ],
+               [ 928, -577, -120, 51 ],
+               [ 2073, -2, -314, -18 ],
+               [ 3189, -44, 46, -25 ],
+               [ 1980, 89, 16, 77 ],
+               [ 2526, -10, -26, 0 ],
+               [ 2257, 92, 63, -31 ],
+               [ 3494, -5, -79, -10 ],
+               [ 3033, -17, -6, 8 ],
+               [ 1606, -462, -296, 422 ],
+               [ 2524, 8, 4, -5 ],
+               [ 782, -71, 76, 856 ],
+               [ 840, -1, 0, 0 ],
+               [ 2912, 328, 43, -62 ],
+               [ 1077, -1483, 234, -181 ],
+               [ 2913, 662, -255, -553 ],
+               [ 2192, 756, 289, -98 ],
+               [ 1519, 80, -99, 441 ],
+               [ 2212, 1127, -461, -908 ],
+               [ 2785, -2, 6, -6 ],
+               [ 478, -596, -1211, -502 ],
+               [ 1607, -211, 5, 891 ],
+               [ 2550, -37, -603, -234 ],
+               [ 472, -495, -1462, -37 ],
+               [ 1669, -2, 0, 3 ],
+               [ 802, 13, 40, -87 ],
+               [ 482, -1323, -604, -1032 ],
+               [ 3220, 243, 121, 496 ],
+               [ 479, -1103, -1119, -690 ],
+               [ 1196, -335, 27, -55 ],
+               [ 801, 44, 66, 403 ],
+               [ 3219, -98, -84, 419 ],
+               [ 1195, -750, -311, -587 ],
+               [ 95, 3, -21, -2 ],
+               [ 1324, 18, 0, 0 ],
+               [ 481, -1597, -643, -1323 ],
+               [ 3166, -52, -820, 1400 ],
+               [ 1533, -91, -27, 31 ],
+               [ 2114, 10, 4, 8 ],
+               [ 2234, -6, -348, 530 ],
+               [ 226, 578, -961, 1561 ],
+               [ 3222, -12, 100, 168 ],
+               [ 871, -1025, -1243, 182 ],
+               [ 228, 87, -63, 518 ],
+               [ 2214, 1503, -341, -1435 ],
+               [ 1202, -8, 1, 4 ],
+               [ 2215, 1034, -948, -613 ],
+               [ 2914, 203, -38, -87 ],
+               [ 826, -51, 29, 53 ],
+               [ 2808, 633, -121, -302 ],
+               [ 2600, 79, -1900, 943 ],
+               [ 2668, 1561, 566, -1320 ],
+               [ 1991, 51, -156, 1115 ],
+               [ 293, 950, -646, 1106 ],
+               [ 2778, -173, 6, 348 ],
+               [ 2118, 245, 201, 43 ],
+               [ 1497, 3, -1, 0 ],
+               [ 1200, -166, 54, 67 ],
+               [ 3831, -26, 6, 19 ],
+               [ 480, -1692, -508, -1549 ],
+               [ 1532, -295, -12, 368 ],
+               [ 3765, 25, 2, 0 ],
+               [ 1613, -367, -98, -442 ],
+               [ 1080, -1319, -311, -601 ],
+               [ 1415, -475, 319, -76 ],
+               [ 3170, 33, -128, 70 ],
+               [ 1082, -661, -42, -179 ],
+               [ 910, 6, -314, -82 ],
+               [ 1079, -1605, -228, -660 ],
+               [ 3793, -1, 0, 0 ],
+               [ 872, -1170, -779, -97 ],
+               [ 873, -1993, -166, -1744 ],
+               [ 2224, 521, 431, -358 ],
+               [ 1076, -1733, 16, -657 ],
+               [ 1459, -38, -163, 85 ],
+               [ 2810, 1025, 40, -136 ],
+               [ 2807, 1113, -194, -494 ],
+               [ 1366, 85, -51, 83 ],
+               [ 2599, 776, -1079, 190 ],
+               [ 2037, -1, -67, 104 ],
+               [ 530, 217, -189, 130 ],
+               [ 2602, 1659, -468, -642 ],
+               [ 243, -55, -244, -10 ],
+               [ 2187, -1426, -1807, 775 ],
+               [ 2697, 0, -1, 1 ],
+               [ 464, -2133, -111, -413 ],
+               [ 3309, 295, -1100, 228 ],
+               [ 1237, -819, 207, 100 ],
+               [ 3311, 553, -61, -783 ],
+               [ 1239, -1076, 344, 194 ],
+               [ 3162, 260, -109, -259 ],
+               [ 787, -3, 1, -2 ],
+               [ 1326, 1, -2, 2 ],
+               [ 1199, -3, 0, 2 ],
+               [ 2059, 2590, 488, -282 ],
+               [ 245, -2, -10, 0 ],
+               [ 3370, 3, 1, 4 ],
+               [ 2189, 230, -1007, -105 ],
+               [ 366, 9, -20, -4 ],
+               [ 2603, 1890, -29, -1689 ],
+               [ 531, -21, -60, -68 ],
+               [ 1511, 497, -247, 753 ],
+               [ 2060, 2900, 609, -392 ],
+               [ 499, -37, 6, 37 ],
+               [ 3120, 627, 392, 44 ],
+               [ 2804, 1468, -120, -593 ],
+               [ 2803, 1605, 103, -612 ],
+               [ 2809, 527, 4, -127 ],
+               [ 778, 37, 369, 444 ],
+               [ 1503, 6, 34, 21 ],
+               [ 2917, 30, -10, 3 ],
+               [ 829, -131, -39, 19 ],
+               [ 3034, 0, -2, 1 ],
+               [ 828, 44, -63, 10 ],
+               [ 229, -74, -73, 599 ],
+               [ 2061, 2219, 420, -996 ],
+               [ 1928, -44, -408, 121 ],
+               [ 3121, 446, 704, 18 ],
+               [ 2805, 1286, 145, -62 ],
+               [ 2806, 1297, 277, -128 ],
+               [ 2956, 726, 225, 111 ],
+               [ 831, 15, -15, -4 ],
+               [ 2919, 358, 97, 0 ],
+               [ 934, 124, -128, 207 ],
+               [ 2958, 930, 361, 217 ],
+               [ 230, -72, 30, 55 ],
+               [ 231, 707, -934, 1153 ],
+               [ 454, 648, -791, 392 ],
+               [ 306, -2340, 315, -1030 ],
+               [ 458, -53, -375, -978 ],
+               [ 3160, 35, -13, -27 ],
+               [ 459, -354, -1101, -71 ],
+               [ 457, -227, 126, -320 ],
+               [ 2529, 43, 174, 244 ],
+               [ 1989, -629, -956, 1230 ],
+               [ 2188, -572, -773, 341 ],
+               [ 837, 5, 11, 88 ],
+               [ 1361, 0, -3, 3 ],
+               [ 2062, 536, -203, -151 ],
+               [ 3122, 278, 612, 233 ],
+               [ 2191, 401, 220, -508 ],
+               [ 3227, 102, -20, 348 ],
+               [ 360, 3, -1, 1 ],
+               [ 2056, 1603, 33, -166 ],
+               [ 2802, 1182, 137, -373 ],
+               [ 303, -1540, -37, -158 ],
+               [ 305, -811, -231, -206 ],
+               [ 930, 324, -772, 380 ],
+               [ 1075, -1368, 89, -412 ],
+               [ 1982, 230, -34, -374 ],
+               [ 2057, 1389, -72, -261 ],
+               [ 2801, 925, -2, 39 ],
+               [ 2922, 9, 8, 8 ],
+               [ 460, -160, -34, 13 ],
+               [ 2693, -257, 2, 272 ],
+               [ 2055, 550, -174, 109 ],
+               [ 2692, -332, -96, 228 ],
+               [ 301, -233, -186, 43 ],
+               [ 1074, -1051, -22, 23 ],
+               [ 3315, 47, -1002, 692 ],
+               [ 304, -55, -172, 46 ],
+               [ 3313, -18, -320, 23 ],
+               [ 1241, -1181, 447, -135 ],
+               [ 494, -863, 125, -1133 ],
+               [ 3236, -863, -670, 458 ],
+               [ 495, -944, 597, -596 ],
+               [ 492, -955, 92, -1073 ],
+               [ 2516, -155, -314, 774 ],
+               [ 1071, -330, -102, 44 ],
+               [ 1040, 618, -2155, -793 ],
+               [ 491, -1283, 257, -810 ],
+               [ 2515, 8, 324, 536 ],
+               [ 939, -1481, 59, -211 ],
+               [ 1242, -832, 638, -9 ],
+               [ 2063, 83, -211, 53 ],
+               [ 2223, 974, -74, 546 ],
+               [ 277, -1775, 1583, -1612 ],
+               [ 2652, -65, -121, 1377 ],
+               [ 2800, 302, -88, 29 ],
+               [ 1521, 115, -321, 215 ],
+               [ 2222, 858, 193, -561 ],
+               [ 2798, 19, -11, -16 ],
+               [ 2225, 571, 49, -855 ],
+               [ 3118, 2, 1, 0 ],
+               [ 3119, 497, 4, 161 ],
+               [ 2645, 129, 155, 879 ],
+               [ 2221, 534, 25, -820 ],
+               [ 2957, 511, 466, 331 ],
+               [ 776, -15, 234, 304 ],
+               [ 1763, -42, 200, -423 ],
+               [ 3365, 491, -1256, 581 ],
+               [ 927, 34, -253, 324 ],
+               [ 779, -16, 479, 570 ],
+               [ 783, 146, 219, 1403 ],
+               [ 1416, -562, 793, 22 ],
+               [ 800, 354, -423, 769 ],
+               [ 1417, -359, 625, 413 ],
+               [ 539, -15, 9, -1 ],
+               [ 1418, -201, 345, 592 ],
+               [ 2510, 42, 288, 389 ],
+               [ 784, 299, 2, 1404 ],
+               [ 216, -124, 53, -267 ],
+               [ 1925, 70, 63, 265 ],
+               [ 546, -401, 105, -212 ],
+               [ 820, -220, -274, -272 ],
+               [ 2518, -49, 173, 118 ],
+               [ 823, -687, -304, 575 ],
+               [ 2513, -60, 59, -253 ],
+               [ 3238, -444, -334, 1105 ],
+               [ 2653, 0, 13, 1 ],
+               [ 2651, 60, 137, -88 ],
+               [ 2650, -60, 60, 233 ],
+               [ 825, 144, 24, 279 ],
+               [ 168, -216, 65, 294 ],
+               [ 2511, 95, 611, 346 ],
+               [ 3164, 20, -512, 864 ],
+               [ 2512, -69, 429, 475 ],
+               [ 1922, 1, 6, -1 ],
+               [ 1414, -31, -1, 1 ],
+               [ 2583, 1548, 460, -518 ],
+               [ 1203, -185, 116, 61 ],
+               [ 1420, -58, 63, 64 ],
+               [ 3653, 0, -6, 0 ],
+               [ 1204, -2, 1, 1 ],
+               [ 2559, 37, -84, 307 ],
+               [ 923, 116, -111, 697 ],
+               [ 3688, 0, 3, 0 ],
+               [ 922, 6, 2, 13 ],
+               [ 2530, 12, 161, 439 ],
+               [ 3123, 220, 458, 354 ],
+               [ 3124, 200, 314, 267 ],
+               [ 2955, 425, 335, 242 ],
+               [ 222, -23, 21, -4 ],
+               [ 2923, 168, 119, 61 ],
+               [ 851, -231, 0, 6 ],
+               [ 2918, 19, 5, 15 ],
+               [ 1455, -43, -745, 1365 ],
+               [ 2148, 2, 0, 0 ],
+               [ 2531, 6, 27, 100 ],
+               [ 537, -238, 68, -743 ],
+               [ 2609, 312, 16, 98 ],
+               [ 215, -55, 13, -111 ],
+               [ 1444, -6, 2, 0 ],
+               [ 359, -2, 0, 0 ],
+               [ 217, -74, 39, -77 ],
+               [ 1454, 297, -2148, 1318 ],
+               [ 220, -178, 20, -263 ],
+               [ 941, -1630, 524, -1382 ],
+               [ 221, -96, 68, -114 ],
+               [ 2611, 219, -83, -6 ],
+               [ 1452, -32, -1271, 468 ],
+               [ 223, -13, 8, 0 ],
+               [ 818, 68, -644, 166 ],
+               [ 882, -205, 2, -94 ],
+               [ 2265, 15, 6, 5 ],
+               [ 362, -1, 0, 0 ],
+               [ 363, -12, 5, 4 ],
+               [ 365, 4, -18, 2 ],
+               [ 1664, -1068, -885, 658 ],
+               [ 367, -1, 0, 3 ],
+               [ 1614, -168, 158, -978 ],
+               [ 536, -165, -126, -340 ],
+               [ 2608, 140, -44, 94 ],
+               [ 2035, 1675, 1614, -1517 ],
+               [ 538, -2, 1, 0 ],
+               [ 2045, 128, 117, 46 ],
+               [ 1451, -201, -121, 27 ],
+               [ 543, -9, 36, -47 ],
+               [ 824, -13, 110, 164 ],
+               [ 1450, -158, -95, -178 ],
+               [ 2659, -1323, -1330, 867 ],
+               [ 835, -96, 81, -361 ],
+               [ 3210, -265, -114, 94 ],
+               [ 963, 251, -22, 46 ],
+               [ 836, 87, 22, 133 ],
+               [ 964, 491, -211, -370 ],
+               [ 965, 34, 179, -819 ],
+               [ 1447, -72, 1, -83 ],
+               [ 1605, -638, -444, 1591 ],
+               [ 1524, -16, 1, -4 ],
+               [ 1608, -1205, -441, 483 ],
+               [ 1612, -630, -144, -619 ],
+               [ 1665, -390, -1226, 1758 ],
+               [ 1764, -242, -55, -279 ],
+               [ 3772, 25, 1, 0 ],
+               [ 1666, 496, -1681, 1753 ],
+               [ 275, -956, 192, -986 ],
+               [ 2548, -315, -917, 228 ],
+               [ 1456, 126, -1412, 41 ],
+               [ 289, 97, -86, 641 ],
+               [ 1457, -19, -649, 829 ],
+               [ 292, 486, -458, 1814 ],
+               [ 1668, 99, -915, 675 ],
+               [ 832, -66, 0, -198 ],
+               [ 1610, -27, -133, 274 ],
+               [ 529, 200, -20, 312 ],
+               [ 2681, 4, -2, -3 ],
+               [ 2536, -17, 38, 59 ],
+               [ 554, -72, -78, -70 ],
+               [ 2578, 6, -15, 6 ],
+               [ 1445, 13, -18, 2 ],
+               [ 3165, -253, -1503, 485 ],
+               [ 290, 100, 52, 531 ],
+               [ 2113, 68, 0, 13 ],
+               [ 169, -38, 25, 122 ],
+               [ 291, -19, 283, 201 ],
+               [ 1976, 83, 23, -39 ],
+               [ 1033, 27, -198, -65 ],
+               [ 2565, -18, 27, 217 ],
+               [ 1978, 175, -27, -390 ],
+               [ 1979, 36, 2, 19 ],
+               [ 2568, 1, -1, 1 ],
+               [ 544, 156, -197, -536 ],
+               [ 3310, 340, -190, -453 ],
+               [ 2562, 1, 19, 113 ],
+               [ 1981, 290, 181, -96 ],
+               [ 3156, 17, 3, -9 ],
+               [ 1132, -636, 58, -329 ],
+               [ 1983, -43, -370, -120 ],
+               [ 2676, 60, -2, -8 ],
+               [ 2612, -122, -301, 358 ],
+               [ 2554, -110, 93, 365 ],
+               [ 2119, 74, 74, 15 ],
+               [ 2552, -472, -1141, 675 ],
+               [ 2120, 54, 12, 10 ],
+               [ 1531, 223, -678, 227 ],
+               [ 2121, 4, 3, 4 ],
+               [ 2567, 272, 256, -185 ],
+               [ 2695, -174, 183, 102 ],
+               [ 2122, 25, 13, 17 ],
+               [ 2123, -4, -5, 0 ],
+               [ 179, -107, -60, -76 ],
+               [ 2259, 421, 433, -1079 ],
+               [ 2132, 2, 0, 4 ],
+               [ 2266, 50, 95, -115 ],
+               [ 1939, 100, -116, -83 ],
+               [ 2549, -491, -1206, 1009 ],
+               [ 2551, 190, -203, -364 ],
+               [ 2553, -403, -873, -34 ],
+               [ 3168, -9, -629, 811 ],
+               [ 2555, 46, 148, 212 ],
+               [ 2566, -135, 32, 234 ],
+               [ 1945, 189, -444, -366 ],
+               [ 2694, -375, 20, 48 ],
+               [ 2556, 39, 66, 197 ],
+               [ 2637, -1078, -1063, 150 ],
+               [ 2557, -231, 22, 480 ],
+               [ 2558, 216, -59, 82 ],
+               [ 3158, -13, -9, -4 ],
+               [ 807, -154, 228, 19 ],
+               [ 3151, -3, -2, 0 ],
+               [ 260, -29, -91, 66 ],
+               [ 3157, 52, 22, 9 ],
+               [ 3163, 192, -184, 48 ],
+               [ 296, 121, -54, -4 ],
+               [ 3307, 54, -675, 1081 ],
+               [ 3314, -323, -440, 203 ],
+               [ 2279, 122, -100, -117 ],
+               [ 3317, 9, -5, 29 ],
+               [ 298, 0, 74, -886 ],
+               [ 3318, 44, 27, 50 ],
+               [ 839, -3, 3, 0 ],
+               [ 2260, 347, 183, -105 ],
+               [ 3461, -126, 237, -25 ],
+               [ 2082, -33, -62, 0 ],
+               [ 3786, 26, 2, 0 ],
+               [ 1449, -2, 0, 0 ],
+               [ 3167, -454, -2225, 1154 ],
+               [ 276, -1034, -139, -1336 ],
+               [ 3366, -575, -1701, 1177 ],
+               [ 185, 307, -1250, -182 ],
+               [ 3169, -124, -1302, -5 ],
+               [ 2040, 137, -54, 270 ],
+               [ 2052, -544, -532, 1919 ],
+               [ 2047, -117, 40, 589 ],
+               [ 2046, 25, 297, 206 ],
+               [ 2051, -993, -719, 1213 ],
+               [ 3308, 506, -165, -713 ],
+               [ 1236, -337, -556, -648 ],
+               [ 2256, 261, 292, -599 ],
+               [ 905, 55, -86, 34 ],
+               [ 3073, 341, 302, 0 ],
+               [ 1944, -519, -1711, -355 ],
+               [ 3305, 66, -100, 1077 ],
+               [ 278, -1949, 1307, -1808 ],
+               [ 3368, -99, -743, 447 ],
+               [ 3306, 174, -185, -40 ],
+               [ 931, 973, -1078, 1529 ],
+               [ 2261, 416, 201, -403 ],
+               [ 2280, 58, -8, -12 ],
+               [ 2278, 13, -32, 1 ],
+               [ 3813, 2, 0, 0 ],
+               [ 534, -18, -98, -4 ],
+               [ 2686, 6, 0, -1 ],
+               [ 1365, -24, 12, 35 ],
+               [ 553, -17, -2, -3 ],
+               [ 1446, -2, 1, 0 ],
+               [ 263, -131, 47, 508 ],
+               [ 269, 283, -403, 817 ],
+               [ 505, -1, -281, 425 ],
+               [ 962, -36, 75, 141 ],
+               [ 834, -10, 1, 32 ],
+               [ 1363, 26, 12, 301 ],
+               [ 838, -2, 0, 26 ],
+               [ 1362, 4, -30, 51 ],
+               [ 547, -311, 183, 194 ],
+               [ 973, -10, -13, 13 ],
+               [ 1762, 0, 0, 1 ],
+               [ 971, -8, 3, 0 ],
+               [ 3369, 121, 92, -98 ],
+               [ 3070, -1, -12, 19 ],
+               [ 2028, 48, -157, 139 ],
+               [ 3237, -842, -688, 982 ],
+               [ 2255, 31, 50, 115 ],
+               [ 2563, 92, 11, -230 ],
+               [ 2564, 31, 13, 52 ],
+               [ 3319, 1, 0, 4 ],
+               [ 284, -1, -8, 17 ],
+               [ 3071, -17, 9, 209 ],
+               [ 2049, 48, 591, 834 ],
+               [ 2147, 6, 0, 0 ],
+               [ 180, -71, -275, -130 ],
+               [ 181, -47, -63, -40 ],
+               [ 940, -1272, -200, -895 ],
+               [ 2029, -298, -445, 897 ],
+               [ 2674, -632, -1171, 1330 ],
+               [ 2022, 42, -126, 93 ],
+               [ 2024, 122, 44, 496 ],
+               [ 2281, 6, -1, -2 ],
+               [ 1504, 190, 149, 233 ],
+               [ 3072, 34, 19, 26 ],
+               [ 2561, 104, 66, -9 ],
+               [ 2258, -132, -119, 78 ],
+               [ 2262, 52, -12, -10 ],
+               [ 2688, 72, 37, -105 ],
+               [ 3074, -75, -47, 78 ],
+               [ 2533, 70, 198, 423 ],
+               [ 2569, 4, 0, 1 ],
+               [ 545, -712, 234, -52 ],
+               [ 2703, 6, -6, 6 ],
+               [ 2570, 11, 12, 40 ],
+               [ 2005, 110, -434, -18 ],
+               [ 266, 46, -378, -16 ],
+               [ 270, -40, -141, 122 ],
+               [ 295, -54, 563, 795 ],
+               [ 299, 110, 305, 16 ],
+               [ 379, 0, 141, 234 ],
+               [ 267, -8, -158, 27 ],
+               [ 259, -20, -12, -2 ],
+               [ 265, 3, -391, -714 ],
+               [ 2640, -1421, -1116, 540 ],
+               [ 297, 1, -131, -996 ],
+               [ 2672, 306, -869, 815 ],
+               [ 268, 0, -228, -284 ],
+               [ 3303, 25, 124, 211 ],
+               [ 271, -75, -10, 6 ],
+               [ 2027, 42, -5, 3 ],
+               [ 2053, -127, -62, 9 ],
+               [ 2054, -120, 326, 30 ],
+               [ 2134, -1, 148, 247 ],
+               [ 2025, 9, -144, 19 ],
+               [ 2582, 857, -428, -261 ],
+               [ 272, 0, -27, 5 ],
+               [ 2021, 5, -16, 9 ],
+               [ 2023, 6, 10, 25 ],
+               [ 2572, 29, 6, -20 ],
+               [ 261, -3, -9, 5 ],
+               [ 2636, 221, -394, -216 ],
+               [ 264, -10, 15, 36 ],
+               [ 3304, 54, 20, -18 ],
+               [ 1458, -163, -96, -219 ],
+               [ 1601, -38, 193, 632 ],
+               [ 1520, -79, -24, 51 ],
+               [ 2689, 3, 2, -4 ],
+               [ 961, -34, 40, -34 ],
+               [ 378, 32, 2, -12 ],
+               [ 380, 2, -142, -275 ],
+               [ 1923, 33, 51, 44 ],
+               [ 2230, 12, 5, 9 ],
+               [ 2229, -4, -6, 6 ],
+               [ 2231, 8, -21, -19 ],
+               [ 79, -1, 15, 6 ],
+               [ 3302, 8, 6, -5 ],
+               [ 94, 15, 22, 55 ],
+               [ 982, -46, 27, -66 ],
+               [ 3239, -107, -261, 703 ],
+               [ 1602, -75, 30, -30 ],
+               [ 1667, -168, 109, -128 ],
+               [ 808, 22, -18, 8 ],
+               [ 496, -215, 108, -203 ],
+               [ 500, 245, -367, 403 ],
+               [ 2589, -845, -1587, -718 ],
+               [ 106, -4, -6, -6 ],
+               [ 497, -153, 396, 46 ],
+               [ 82, -16, -68, -35 ],
+               [ 107, -38, 21, -21 ],
+               [ 1946, 506, 233, -697 ],
+               [ 1600, -43, -5, -52 ],
+               [ 2590, -731, -2164, -825 ],
+               [ 2584, 411, -605, -661 ],
+               [ 2585, 178, -1119, -807 ],
+               [ 2661, -867, -1027, 1443 ],
+               [ 2031, 961, -127, -1253 ],
+               [ 2660, -187, -987, 809 ],
+               [ 2770, 383, -696, -1122 ],
+               [ 2033, 424, -295, -132 ],
+               [ 2771, -634, -2046, -707 ],
+               [ 2034, 1844, 1351, -1715 ],
+               [ 2669, 1207, -174, -837 ],
+               [ 2671, 556, -730, 642 ],
+               [ 2030, 1268, -292, -528 ],
+               [ 2763, 612, -102, -1064 ],
+               [ 3316, 399, -361, 756 ],
+               [ 2656, 494, -199, 81 ],
+               [ 2534, 55, 67, 752 ],
+               [ 2032, 908, 203, -908 ],
+               [ 3241, 78, -36, 35 ],
+               [ 854, -179, -1133, -844 ],
+               [ 855, -403, -612, -661 ],
+               [ 857, 763, -2189, -880 ],
+               [ 2272, 158, -39, -585 ],
+               [ 858, 883, -1583, -726 ],
+               [ 803, -498, 741, 469 ],
+               [ 932, 207, -994, 848 ],
+               [ 1039, -417, -738, -1209 ],
+               [ 942, -305, -903, 833 ],
+               [ 944, 675, -1211, 1374 ],
+               [ 943, -591, -734, 644 ],
+               [ 945, 146, -974, 792 ],
+               [ 273, -1320, -308, -570 ],
+               [ 1032, -649, -149, -1176 ],
+               [ 1615, -526, -207, 732 ],
+               [ 274, -445, -289, -217 ],
+               [ 3213, 372, 178, 177 ],
+               [ 2658, -309, -807, 298 ],
+               [ 2954, 343, -502, -606 ],
+               [ 3229, -64, -265, 163 ],
+               [ 3240, -164, -640, 192 ],
+               [ 3230, 79, -10, 31 ],
+               [ 3233, -20, -54, 77 ],
+               [ 1940, 97, -253, -128 ],
+               [ 1943, -271, -1108, -154 ],
+               [ 1525, 33, -72, 108 ],
+               [ 1530, 210, -330, 783 ],
+               [ 183, -173, -491, -397 ],
+               [ 2762, 509, 447, -943 ],
+               [ 2698, 35, -18, -20 ],
+               [ 1941, 156, -70, -113 ],
+               [ 2761, 541, 104, -744 ],
+               [ 2704, 425, -458, -637 ],
+               [ 329, 2, -2, 1 ],
+               [ 2684, 100, -6, -265 ],
+               [ 2764, 357, 192, -293 ],
+               [ 1942, -96, -941, -179 ],
+               [ 955, -35, -3, -95 ],
+               [ 969, -6, -4, -3 ],
+               [ 976, -411, -478, -660 ],
+               [ 1031, -573, 66, -829 ],
+               [ 167, -574, 375, -429 ],
+               [ 186, 100, -807, -109 ],
+               [ 2274, -120, -190, -384 ],
+               [ 2277, 413, 151, 70 ],
+               [ 2705, 347, -131, -498 ],
+               [ 2587, 929, 62, -705 ],
+               [ 1522, 0, 1, -3 ],
+               [ 1938, 19, -4, -5 ],
+               [ 2765, -49, -560, -192 ],
+               [ 1929, 15, 26, 25 ],
+               [ 2766, 58, -4, -110 ],
+               [ 2768, 0, 0, 4 ],
+               [ 3126, 0, 1, 1 ],
+               [ 2273, 576, 195, -406 ],
+               [ 2706, 84, -47, -1030 ],
+               [ 2270, 215, -17, -939 ],
+               [ 246, -194, -455, -23 ],
+               [ 2588, -162, -556, -892 ],
+               [ 2586, 1900, 814, -700 ],
+               [ 2639, -13, -420, -161 ],
+               [ 2707, 311, -131, -275 ],
+               [ 2271, -322, -433, -485 ],
+               [ 860, -864, 49, -672 ],
+               [ 924, 0, 9, 33 ],
+               [ 163, -5, 10, 6 ],
+               [ 2002, 27, -76, -21 ],
+               [ 548, -502, 228, 18 ],
+               [ 804, -337, 568, 181 ],
+               [ 856, -1546, 451, -485 ],
+               [ 859, 154, -556, -901 ],
+               [ 977, -223, -2, -1089 ],
+               [ 929, 1426, -1320, 998 ],
+               [ 2953, -2, -4, 2 ],
+               [ 1529, 1181, -801, 1211 ],
+               [ 861, -1793, 810, -638 ],
+               [ 2675, 102, -84, -1 ],
+               [ 3228, 166, 63, 102 ],
+               [ 2532, -95, -19, 333 ],
+               [ 2677, 116, -75, 18 ],
+               [ 2084, -36, -32, 154 ],
+               [ 2663, 60, -18, 37 ],
+               [ 3217, -287, -161, 392 ],
+               [ 2638, 1583, 537, -429 ],
+               [ 2662, -199, -173, 301 ],
+               [ 2041, -1, 3, 2 ],
+               [ 2664, 604, 38, 10 ],
+               [ 2580, 337, -39, 240 ],
+               [ 3211, 340, 55, 207 ],
+               [ 3212, -205, -44, 356 ],
+               [ 3216, -1130, -702, 429 ],
+               [ 2665, 260, -23, 79 ],
+               [ 1527, 608, -416, 436 ],
+               [ 906, 891, -745, 156 ],
+               [ 907, -167, -206, -157 ],
+               [ 909, 1498, -1021, 855 ],
+               [ 1512, 1005, -468, 1026 ],
+               [ 911, -1218, 477, -347 ],
+               [ 935, -259, -4, 53 ],
+               [ 936, -775, 77, -273 ],
+               [ 979, -223, -100, -222 ],
+               [ 1508, -84, 234, -32 ],
+               [ 1509, 144, -30, 290 ],
+               [ 1510, 462, -117, 483 ],
+               [ 947, -95, -117, -32 ],
+               [ 949, -144, -106, 24 ],
+               [ 2088, -91, -72, 63 ],
+               [ 2581, 592, 0, 12 ],
+               [ 2634, -301, -530, 151 ],
+               [ 2635, 142, -248, -18 ],
+               [ 2579, 6, -30, 3 ],
+               [ 2083, 1, 1, 3 ],
+               [ 324, -21, -100, 10 ],
+               [ 2009, 428, -789, -13 ],
+               [ 283, -40, -20, 103 ],
+               [ 328, -57, 21, -38 ],
+               [ 852, -109, -23, 110 ],
+               [ 842, 502, -438, -167 ],
+               [ 908, -20, -59, -4 ],
+               [ 1505, 205, -133, 206 ],
+               [ 343, -119, -617, 18 ],
+               [ 325, 17, -13, 55 ],
+               [ 933, -44, -18, 13 ],
+               [ 1506, -1, -3, 4 ],
+               [ 2571, 1, 0, -2 ],
+               [ 946, -61, 4, -20 ],
+               [ 2003, 3, -12, -1 ],
+               [ 3232, 0, 0, -2 ],
+               [ 2678, 52, -4, -3 ],
+               [ 3231, 1, -6, -4 ],
+               [ 549, 114, -136, -70 ],
+               [ 242, -17, -49, -13 ],
+               [ 948, -55, -6, -4 ],
+               [ 1523, -3, -15, -9 ],
+               [ 1421, 0, 0, 1 ],
+               [ 805, 2, 50, 30 ],
+               [ 2036, 55, -67, -73 ],
+               [ 2275, -138, -108, -160 ],
+               [ 843, -32, -17, -31 ],
+               [ 550, 52, -38, -39 ],
+               [ 845, -2, 1, -2 ]
+            ],
+            "host" : "KL\\High Poly Head\\FemaleHeadCharGen.tri",
+            "vertices" : 3832
+         },
+         {
+            "data" : [
+               [ 3, 1622, -1346, 1430 ],
+               [ 67, -245, -2228, 450 ],
+               [ 80, -46, -581, -310 ],
+               [ 16, 241, -2347, 381 ],
+               [ 17, -212, -2346, -66 ],
+               [ 81, -137, -1866, -36 ],
+               [ 6, -1988, 462, -1379 ],
+               [ 70, 132, -2337, -4 ],
+               [ 54, -1714, -1465, 1534 ],
+               [ 30, 41, -1670, -164 ],
+               [ 13, -323, -203, -505 ],
+               [ 18, -1385, -596, -1127 ],
+               [ 19, -428, -759, -643 ],
+               [ 7, -2710, 758, -359 ],
+               [ 4, -2, -1, 0 ],
+               [ 68, 473, -846, -697 ],
+               [ 21, -1676, -181, -2004 ],
+               [ 85, 122, 23, 92 ],
+               [ 22, -1240, -358, -1525 ],
+               [ 86, 138, 23, -12 ],
+               [ 31, 88, -947, -542 ],
+               [ 95, 3, 4, 5 ],
+               [ 0, 840, -941, 641 ],
+               [ 29, 21, -318, -115 ],
+               [ 1, 6, 2, 93 ],
+               [ 63, 237, -189, -526 ],
+               [ 69, 1247, -595, -1032 ],
+               [ 58, 2511, 758, -326 ],
+               [ 57, 13, -6, 2 ],
+               [ 53, -1187, -1389, 980 ],
+               [ 79, -34, -540, -185 ],
+               [ 56, -53, 3, 621 ],
+               [ 73, 1327, -137, -1631 ],
+               [ 59, 1526, 395, -1075 ],
+               [ 72, 1227, -341, -1507 ],
+               [ 55, 38, 39, -81 ],
+               [ 2, -20, 20, -38 ],
+               [ 37, -100, 13, -11 ],
+               [ 36, -198, 33, 121 ],
+               [ 25, -750, 447, 188 ],
+               [ 75, 653, 424, 196 ]
+            ],
+            "host" : "Actors\\Character\\Character Assets\\FaceParts\\FemaleHeadBrowsCharGen.tri",
+            "vertices" : 102
+         }
+      ],
+      "sculptDivisor" : 10000
+   },
+   "overrides" : [
+      {
+         "node" : "Body [Ovl0]",
+         "values" : [
+            {
+               "data" : -16777216,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 25.5,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : -16777216,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Lupine Bodypaint\\Yyvengar\\Yyvengar Seers Matera Body Base F.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl1]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Community Overlays\\20 Body Secondary.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl2]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711854,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\WNB\\Ornate Runic Runes.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl3]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711846,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Community Overlays\\CO 2\\39 Body Runes M.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl4]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711846,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Community Overlays\\CO 3\\67 Body Runes F.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl5]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711854,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Community Overlays\\CO 3\\67 Body Runes Limbs F.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Face [Ovl0]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\WNB\\Face\\Runic Face 1.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Face [Ovl1]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\WNB\\Face\\Ornate Runic Face Runes.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Face [Ovl2]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Community Overlays\\CO 2\\39 Head F.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Feet [Ovl0]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Community Overlays\\CO 2\\39 Body Runes F.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Feet [Ovl1]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\WNB\\Ornate Runic Runes.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Feet [Ovl2]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\SFO\\Scars Back Slashes 2.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl0]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Community Overlays\\CO 2\\39 Hands F.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl1]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\WNB\\Hand\\Ornate Runic Hand Runes.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl2]",
+         "values" : [
+            {
+               "data" : 2046820351,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 12.10000038146973,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : 16711850,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\WNB\\Hand\\Nordic Hand 1.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      }
+   ],
+   "tintInfo" : [
+      {
+         "color" : 4278200844,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 4279697522,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHighElf_Lips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Nose.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 4279763009,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Overlays\\Sakora's Makeover Kit\\Sakora's Makeup\\Details-Eyeshadow7.dds"
+      },
+      {
+         "color" : 1830682879,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Extra\\Lips Extra Center.dds"
+      },
+      {
+         "color" : 4279435339,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Simple 4.dds"
+      },
+      {
+         "color" : 4278779942,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Overlays\\Sakora's Makeover Kit\\Sakora's Makeup\\Details-Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 15,
+         "texture" : "Actors\\makeup by kai\\kai-lipstick a-2-deeperTint.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Overlays\\Community Overlays\\CO 3\\63 Head F M.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Character Assets\\Overlays\\Havok\\Havok_LipMod_LinerBold.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_08.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_09.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 20,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_10.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDarkElfWarPaint_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadForswornTattoo_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 23,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDarkElfWarPaint_03.dds"
+      },
+      {
+         "color" : 2359296,
+         "index" : 24,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDarkElfWarPaint_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDarkElfWarPaint_06.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "Sakora's Makeover Kit\\Sakora's Makeup\\Details-Eyeliner.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 30,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 31,
+         "texture" : "Sakora's Makeover Kit\\Sakora's Makeup\\Details-Eyeliner.dds"
+      }
+   ],
+   "transforms" : [
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "RMX_Head",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Camera1st [Cam1]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "RMX_Head",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Camera3rd [Cam3]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : 2.873188714147545e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.008533460088074207,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.1874805241823196,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME L Thigh [LThg]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "RMXPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Neck [Neck]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : -5.29329408891499e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.01018884778022766,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.2256741374731064,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME R Thigh [RThg]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "RSMPlugin",
+               "values" : [
+                  {
+                     "data" : 0.949999988079071,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "RMX_Head",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Camera1st [Cam1]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "RMX_Head",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Camera3rd [Cam3]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "RMXPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Neck [Neck]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "RSMPlugin",
+               "values" : [
+                  {
+                     "data" : 0.949999988079071,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}

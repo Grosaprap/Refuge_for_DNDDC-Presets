@@ -1,0 +1,2302 @@
+{
+   "actor" : {
+      "hairColor" : 6769221,
+      "headTexture" : "Skyrim.esm|03D2AC",
+      "weight" : 60.00000381469727
+   },
+   "bodyMorphs" : [
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 6
+            }
+         ],
+         "name" : "XPMSEAARange_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.02406525611877441
+            }
+         ],
+         "name" : "BreastsNewSH"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 4
+            }
+         ],
+         "name" : "XPMSEAAID"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.02406525611877441
+            }
+         ],
+         "name" : "BreastsSSH"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.02406525611877441
+            }
+         ],
+         "name" : "breasts"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 14
+            }
+         ],
+         "name" : "XPMSEAABase_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 7
+            }
+         ],
+         "name" : "XPMSEAABase_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.02406525611877441
+            }
+         ],
+         "name" : "NippleAreola"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 2
+            }
+         ],
+         "name" : "XPMSEAARange_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0
+            },
+            {
+               "key" : "EggFactory",
+               "value" : 0.1000000014901161
+            }
+         ],
+         "name" : "PregnancyBelly"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.02406525611877441
+            }
+         ],
+         "name" : "BreastsSH"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.02406525611877441
+            }
+         ],
+         "name" : "BreastGravity"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.02406525611877441
+            }
+         ],
+         "name" : "BreastGravity2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.02406525611877441
+            }
+         ],
+         "name" : "AreolaSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.1907319277524948
+            }
+         ],
+         "name" : "DoubleMelon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.1907319277524948
+            }
+         ],
+         "name" : "BreastsFantasy"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.1907319277524948
+            }
+         ],
+         "name" : "NipplePerkiness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.1907319277524948
+            }
+         ],
+         "name" : "NippleLength"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : -9
+            }
+         ],
+         "name" : "SOS_Erection"
+      }
+   ],
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Female\\FemaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\HighElfFemale\\FemaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Male\\BlankDetailmap.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333071,
+         "formIdentifier" : "Skyrim.esm|05150F",
+         "type" : 0
+      },
+      {
+         "formId" : 352324098,
+         "formIdentifier" : "High Poly Head.esm|000A02",
+         "type" : 1
+      },
+      {
+         "formId" : 967090,
+         "formIdentifier" : "Skyrim.esm|0EC1B2",
+         "type" : 2
+      },
+      {
+         "formId" : 1426756981,
+         "formIdentifier" : "KS Hairdo's.esp|0A9575",
+         "type" : 3
+      },
+      {
+         "formId" : 937378,
+         "formIdentifier" : "Skyrim.esm|0E4DA2",
+         "type" : 6
+      },
+      {
+         "formId" : 1459637864,
+         "formIdentifier" : "TheEyesOfBeauty.esp|004E68",
+         "type" : 7
+      }
+   ],
+   "modNames" : [
+      "High Poly Head.esm",
+      "KS Hairdo's.esp",
+      "Skyrim.esm",
+      "TheEyesOfBeauty.esp"
+   ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      },
+      {
+         "index" : 21,
+         "name" : "High Poly Head.esm"
+      },
+      {
+         "index" : 85,
+         "name" : "KS Hairdo's.esp"
+      },
+      {
+         "index" : 87,
+         "name" : "TheEyesOfBeauty.esp"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "EFM_Jaw_Width",
+            "value" : -0.1599999964237213
+         },
+         {
+            "name" : "EFM_Eyes_Outer_Width",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "EFM_Nose_Size",
+            "value" : -0.7099999785423279
+         },
+         {
+            "name" : "NSK_CheekShape",
+            "value" : 1.429999947547913
+         },
+         {
+            "name" : "EFM_Brow_Width",
+            "value" : 0.5999999642372131
+         },
+         {
+            "name" : "CME_BrowArch",
+            "value" : 0.4099999964237213
+         },
+         {
+            "name" : "CME_BrowSlope",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "EFM_Brow_Thickness",
+            "value" : 0.5099999904632568
+         },
+         {
+            "name" : "EFM_Nose_Tip_Depth",
+            "value" : -0.05999999865889549
+         },
+         {
+            "name" : "EFM_Nose_Root_Width",
+            "value" : -1.110000014305115
+         },
+         {
+            "name" : "NSK_BrowAngle",
+            "value" : 0.5099999904632568
+         },
+         {
+            "name" : "EFM_Nose_Bridge_Width",
+            "value" : -0.3599999845027924
+         },
+         {
+            "name" : "CME_EyesHeight",
+            "value" : -0.1899999976158142
+         },
+         {
+            "name" : "EFM_Brow_Angle",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "CME_EyelashLength",
+            "value" : 0.85999995470047
+         },
+         {
+            "name" : "CME_EyesBackForward",
+            "value" : -0.3599999845027924
+         },
+         {
+            "name" : "EFM_Cheek_Shape",
+            "value" : 3
+         },
+         {
+            "name" : "CME_EyesSize",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_EyesSlope",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "EFM_Chin_Depth",
+            "value" : 0.1599999964237213
+         },
+         {
+            "name" : "CME_EyesInOut",
+            "value" : -0.119999997317791
+         },
+         {
+            "name" : "EFM_Eyelid_Lower",
+            "value" : -2.460000038146973
+         },
+         {
+            "name" : "EFM_Eyes_Inner_Width",
+            "value" : -0.5099999904632568
+         },
+         {
+            "name" : "EFM_Eyeball_Depth",
+            "value" : -0.2099999934434891
+         },
+         {
+            "name" : "EFM_Eyeball_Size",
+            "value" : 0.05999999865889549
+         },
+         {
+            "name" : "CME_CheeksWidth",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "EFM_Eyeground_Depth",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Eyelid_Upper",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "EFM_Nose_Depth",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "EFM_Eyes_Inner_Height",
+            "value" : -1.759999990463257
+         },
+         {
+            "name" : "EFM_Eyes_Inner_Thickness",
+            "value" : -0.4599999785423279
+         },
+         {
+            "name" : "ECE_EarSize",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Nose_Wing_Width",
+            "value" : 0.2099999934434891
+         },
+         {
+            "name" : "EFM_Jaw_Height",
+            "value" : 1.009999990463257
+         },
+         {
+            "name" : "EFM_Eyes_Outer_Height",
+            "value" : 0.1599999964237213
+         },
+         {
+            "name" : "EFM_Chin_Width",
+            "value" : -0.9099999666213989
+         },
+         {
+            "name" : "EFM_Eyes_Outer_Thickness",
+            "value" : -0.6100000143051147
+         },
+         {
+            "name" : "EFM_Eyes_Size",
+            "value" : 0.3599999845027924
+         },
+         {
+            "name" : "EFM_Eyes_Height",
+            "value" : -0.4599999785423279
+         },
+         {
+            "name" : "CME_CheeksBlow",
+            "value" : -0.3100000023841858
+         },
+         {
+            "name" : "EFM_Brow_Height",
+            "value" : -0.5600000023841858
+         },
+         {
+            "name" : "CME_CheeksUpDown",
+            "value" : 1.689999938011169
+         },
+         {
+            "name" : "EFM_Face_Height",
+            "value" : 1.209999918937683
+         },
+         {
+            "name" : "CME_CheeksBoneInOut",
+            "value" : -1.439999938011169
+         },
+         {
+            "name" : "EFM_Cheek_Height",
+            "value" : 0.1599999964237213
+         },
+         {
+            "name" : "EFM_Cheek_Width",
+            "value" : 0.8100000023841858
+         },
+         {
+            "name" : "EFM_Jaw_Depth",
+            "value" : -3
+         },
+         {
+            "name" : "EFM_Nose_Bridge_Depth",
+            "value" : -0.05999999865889549
+         },
+         {
+            "name" : "EFM_Nose_Root_Height",
+            "value" : -2.159999847412109
+         },
+         {
+            "name" : "EFM_Nose_Tip_Height",
+            "value" : 0.6100000143051147
+         },
+         {
+            "name" : "EFM_Nose_Wing_Height",
+            "value" : -0.6100000143051147
+         },
+         {
+            "name" : "CME_JawBackForward",
+            "value" : -3
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            -0.300000011920929,
+            0.2000000029802322,
+            -1,
+            -0.6000000238418579,
+            0.300000011920929,
+            -0.4000000059604645,
+            -1,
+            -0.699999988079071,
+            0,
+            -0.6000000238418579,
+            0.2000000029802322,
+            0.5,
+            0.9000000357627869,
+            -0.1000000014901161,
+            -0.5,
+            -0.800000011920929,
+            0,
+            -0.2000000029802322,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 18, 4294967295, 15, 11 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "overrides" : [
+      {
+         "node" : "Body [Ovl0]",
+         "values" : [
+            {
+               "data" : 550617264,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.125490203499794,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl1]",
+         "values" : [
+            {
+               "data" : 550617264,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.125490203499794,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl2]",
+         "values" : [
+            {
+               "data" : 953270448,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.2196078449487686,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl3]",
+         "values" : [
+            {
+               "data" : 167772160,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : -6992640,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl4]",
+         "values" : [
+            {
+               "data" : -7778560,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl5]",
+         "values" : [
+            {
+               "data" : -7778560,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl6]",
+         "values" : [
+            {
+               "data" : 400482014,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.09019608050584793,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Sunstarved\\Update\\Generic Tan Top 2.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl7]",
+         "values" : [
+            {
+               "data" : 400482014,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.09019608050584793,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Sunstarved\\Update\\Generic Tan Bottom 2.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Face [Ovl0]",
+         "values" : [
+            {
+               "data" : -2038085868,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.5254902243614197,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\SFO\\Face\\Face Freckles 11.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Feet [Ovl0]",
+         "values" : [
+            {
+               "data" : -6992640,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl0]",
+         "values" : [
+            {
+               "data" : -16237289,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      }
+   ],
+   "tintInfo" : [
+      {
+         "color" : 4286736994,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 1195508481,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadImperial_Lips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Nose.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 326333299,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Contours 2.dds"
+      },
+      {
+         "color" : 184549375,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Highlights 5.dds"
+      },
+      {
+         "color" : 3946527547,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Wing 2.dds"
+      },
+      {
+         "color" : 3946527547,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Bold 1.dds"
+      },
+      {
+         "color" : 3946527547,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Simple 4.dds"
+      },
+      {
+         "color" : 626546776,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\NoseTip 1.dds"
+      },
+      {
+         "color" : 2417234964,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Undereye 1.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_08.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_09.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 20,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_10.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWoodElfWarPaint_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWoodElfWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 23,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWoodElfWarPaint_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 24,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWoodElfWarPaint_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWoodElfWarPaint_05.dds"
+      },
+      {
+         "color" : 1745814592,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 5648658,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_03.dds"
+      }
+   ],
+   "transforms" : [
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals01 [Gen01]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 1,
+                     "index" : 0,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 3,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.9961947202682495,
+                     "index" : 4,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.08715573698282242,
+                     "index" : 5,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 6,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.08715573698282242,
+                     "index" : 7,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.9961947202682495,
+                     "index" : 8,
+                     "key" : 32,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals02 [Gen02]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals03 [Gen03]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "SoS_Thickness",
+               "values" : [
+                  {
+                     "data" : 1.098901033401489,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            },
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals04 [Gen04]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "SoS_Thickness",
+               "values" : [
+                  {
+                     "data" : 1.25,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            },
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals05 [Gen05]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : 8.876343713382084e-07,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.008592717349529266,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.1874464452266693,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME L Thigh [LThg]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : -4.794159031007439e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.008408734574913979,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.1875044703483582,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME R Thigh [RThg]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "SoS_Thickness",
+               "values" : [
+                  {
+                     "data" : 0.9100000262260437,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC Genitals04 [Gen04]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "SoS_Thickness",
+               "values" : [
+                  {
+                     "data" : 0.800000011920929,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC Genitals05 [Gen05]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 1.200000047683716,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC GenitalsBase [GenBase]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponAxeDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponAxeArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponBackAxeMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBackArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponCrossBowDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBowArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponDaggerDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponDaggerArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponMaceArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "RMCPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.300000011920929,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Camera1st [Cam1]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals01 [Gen01]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 1,
+                     "index" : 0,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 3,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.9961947202682495,
+                     "index" : 4,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.08715573698282242,
+                     "index" : 5,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 6,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.08715573698282242,
+                     "index" : 7,
+                     "key" : 32,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.9961947202682495,
+                     "index" : 8,
+                     "key" : 32,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals02 [Gen02]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals03 [Gen03]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "SoS_Thickness",
+               "values" : [
+                  {
+                     "data" : 1.098901033401489,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            },
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals04 [Gen04]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "SoS_Thickness",
+               "values" : [
+                  {
+                     "data" : 1.25,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            },
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -1,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Genitals05 [Gen05]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "SoS_Thickness",
+               "values" : [
+                  {
+                     "data" : 0.9100000262260437,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC Genitals04 [Gen04]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "SoS_Thickness",
+               "values" : [
+                  {
+                     "data" : 0.800000011920929,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC Genitals05 [Gen05]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "SoSPlugin",
+               "values" : [
+                  {
+                     "data" : 1.200000047683716,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC GenitalsBase [GenBase]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponAxeDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponAxeArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponBackAxeMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBackArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponCrossBowDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBowArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponDaggerDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponDaggerArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponMaceArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordArmor"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}

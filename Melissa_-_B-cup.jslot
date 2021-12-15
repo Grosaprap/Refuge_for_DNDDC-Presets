@@ -1,0 +1,577 @@
+{
+   "actor" : {
+      "hairColor" : 6051920,
+      "headTexture" : "Skyrim.esm|03B522",
+      "weight" : 51
+   },
+   "bodyMorphs" : [
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.4300000071525574
+            }
+         ],
+         "name" : "breasts"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastWidth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.9300000071525574
+            }
+         ],
+         "name" : "PushUp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.4399999976158142
+            }
+         ],
+         "name" : "BreastGravity2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5299999713897705
+            }
+         ],
+         "name" : "BreastHeight"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.009999999776482582
+            }
+         ],
+         "name" : "BreastsSmall"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.119999997317791
+            }
+         ],
+         "name" : "Thighs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1500000059604645
+            }
+         ],
+         "name" : "BigButt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastPerkiness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Waist"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.3799999952316284
+            }
+         ],
+         "name" : "WideWaistLine"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.2599999904632568
+            }
+         ],
+         "name" : "ChubbyWaist"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.25
+            }
+         ],
+         "name" : "Butt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ChubbyButt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.6700000166893005
+            }
+         ],
+         "name" : "SlimThighs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "LegsThin"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5099999904632568
+            }
+         ],
+         "name" : "LegShapeClassic"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.6399999856948853
+            }
+         ],
+         "name" : "FeetFeminine"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "7BLeg_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.4600000083446503
+            }
+         ],
+         "name" : "AnkleSize"
+      }
+   ],
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Female\\FemaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Male\\BlankDetailmap.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333071,
+         "formIdentifier" : "Skyrim.esm|05150F",
+         "type" : 1
+      },
+      {
+         "formId" : 333347,
+         "formIdentifier" : "Skyrim.esm|051623",
+         "type" : 2
+      },
+      {
+         "formId" : 967090,
+         "formIdentifier" : "Skyrim.esm|0EC1B2",
+         "type" : 3
+      },
+      {
+         "formId" : 262664,
+         "formIdentifier" : "Skyrim.esm|040208",
+         "type" : 4
+      },
+      {
+         "formId" : 937377,
+         "formIdentifier" : "Skyrim.esm|0E4DA1",
+         "type" : 5
+      },
+      {
+         "formId" : 1375874933,
+         "formIdentifier" : "KS Hairdo's.esp|022F75",
+         "type" : 6
+      }
+   ],
+   "modNames" : [ "KS Hairdo's.esp", "Skyrim.esm" ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      },
+      {
+         "index" : 82,
+         "name" : "KS Hairdo's.esp"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "CME_NoseUpDown",
+            "value" : 0.4599999785423279
+         },
+         {
+            "name" : "CME_CheeksBlow",
+            "value" : -0.25
+         },
+         {
+            "name" : "CME_NoseType",
+            "value" : 1
+         },
+         {
+            "name" : "CME_NoseSellionUpDown",
+            "value" : 0.3499999940395355
+         },
+         {
+            "name" : "ECE_NoseTipWidth",
+            "value" : 0.7199999690055847
+         },
+         {
+            "name" : "EFM_Chin_Depth",
+            "value" : -0.1599999964237213
+         },
+         {
+            "name" : "CME_AroundNoseBackForward",
+            "value" : 0.1499999910593033
+         },
+         {
+            "name" : "CME_CheeksBoneInOut",
+            "value" : 0.5699999928474426
+         },
+         {
+            "name" : "CME_ChinWidth",
+            "value" : -0.5199999809265137
+         },
+         {
+            "name" : "RANs_Age",
+            "value" : -0.05999999865889549
+         },
+         {
+            "name" : "CME_CheeksUpDown",
+            "value" : -0.6499999761581421
+         },
+         {
+            "name" : "CME_CheeksWidth",
+            "value" : -0.4199999868869781
+         },
+         {
+            "name" : "CME_ChinUpDown",
+            "value" : -0.8799999952316284
+         },
+         {
+            "name" : "ECE_EarSize",
+            "value" : -0.5999999642372131
+         },
+         {
+            "name" : "NSK_MouthSmile",
+            "value" : 1.439999938011169
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            -0.2000000029802322,
+            -0.4000000059604645,
+            0.1000000014901161,
+            0,
+            0.300000011920929,
+            0.6000000238418579,
+            0.4000000059604645,
+            -0.4599999785423279,
+            -0.1399999856948853,
+            0.2000000029802322,
+            0,
+            0,
+            0.2000000029802322,
+            0.2000000029802322,
+            0.5,
+            0,
+            -0.5,
+            -0.5,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 3, 4294967295, 17, 15 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "tintInfo" : [
+      {
+         "color" : 4292730333,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 1923699794,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 1799554049,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 1621709906,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadNord_Lips.dds"
+      },
+      {
+         "color" : 3081327698,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Nose.dds"
+      },
+      {
+         "color" : 2007585874,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Blush\\Anime Blush 1.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Wing 1.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Undereye 2.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Overlays\\Sakora's Makeover Kit\\Sakora's Makeup\\Details-Lips.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Blush\\Blush Cheeks 1.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Chin 1.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeShadow\\Wide 1.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeShadow\\Lid 3.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Undereye 1.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 20,
+         "texture" : "Actors\\makeup by kai\\kai-lipstick b - solid tint.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Undereye 1.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\NoseTip 1.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 23,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadNordWarPaint_03.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 24,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadNordWarPaint_04.dds"
+      },
+      {
+         "color" : 5714944,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadBothiahTattoo_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadBlackBloodTattoo_02.dds"
+      },
+      {
+         "color" : 1745814592,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 30,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 31,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 32,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_03.dds"
+      }
+   ],
+   "transforms" : [
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : 4.081022052560002e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.009722762741148472,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.2139280289411545,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME L Thigh [LThg]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : -2.406142994004767e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.008146963082253933,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.1875139623880386,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME R Thigh [RThg]"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}

@@ -1,0 +1,2225 @@
+{
+   "actor" : {
+      "hairColor" : 590852,
+      "headTexture" : "Skyrim.esm|051648",
+      "weight" : 100
+   },
+   "bodyMorphs" : [
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 6
+            }
+         ],
+         "name" : "XPMSEAARange_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.6899999976158142
+            }
+         ],
+         "name" : "Labiaprotrudeback"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.02999999932944775
+            }
+         ],
+         "name" : "BackValley_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.4600000083446503
+            }
+         ],
+         "name" : "LegsThin"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.3600000143051147
+            }
+         ],
+         "name" : "BreastsNewSH"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.1899999976158142
+            }
+         ],
+         "name" : "BreastTopSlope"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAAID"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1299999952316284
+            }
+         ],
+         "name" : "Labiaspread"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.3799999952316284
+            }
+         ],
+         "name" : "breasts"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 2
+            }
+         ],
+         "name" : "XPMSEAARange_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.6399999856948853
+            }
+         ],
+         "name" : "Thighs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.4199999868869781
+            }
+         ],
+         "name" : "BreastsSmall"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.239999994635582
+            }
+         ],
+         "name" : "BreastGravity2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.3199999928474426
+            }
+         ],
+         "name" : "BreastSideShape"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.009999999776482582
+            }
+         ],
+         "name" : "BigTorso"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -1
+            }
+         ],
+         "name" : "WideWaistLine"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.02999999932944775
+            }
+         ],
+         "name" : "LabiaBulgogi_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.1099999994039536
+            }
+         ],
+         "name" : "ChubbyButt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.2599999904632568
+            }
+         ],
+         "name" : "DoubleMelon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.1099999994039536
+            }
+         ],
+         "name" : "BreastPerkiness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.3600000143051147
+            }
+         ],
+         "name" : "BreastsSmall2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1700000017881393
+            }
+         ],
+         "name" : "BreastFlatness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.07000000029802322
+            }
+         ],
+         "name" : "BreastUnderDepth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.4199999868869781
+            }
+         ],
+         "name" : "AreolaSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.1500000059604645
+            }
+         ],
+         "name" : "NippleManga"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.4000000059604645
+            }
+         ],
+         "name" : "NipplePerkiness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.07999999821186066
+            }
+         ],
+         "name" : "NipplePerkManga"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.2800000011920929
+            }
+         ],
+         "name" : "Waist"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1700000017881393
+            }
+         ],
+         "name" : "Back"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.6499999761581421
+            }
+         ],
+         "name" : "ButtSmall"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.1700000017881393
+            }
+         ],
+         "name" : "Butt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.1500000059604645
+            }
+         ],
+         "name" : "AppleCheeks"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.2199999988079071
+            }
+         ],
+         "name" : "ButtShape2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.1400000005960464
+            }
+         ],
+         "name" : "ButtCrack"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.5699999928474426
+            }
+         ],
+         "name" : "ThighOutsideThicc_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "7BLeg_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1599999964237213
+            }
+         ],
+         "name" : "LegSpread_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.4799999892711639
+            }
+         ],
+         "name" : "CalfSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.2899999916553497
+            }
+         ],
+         "name" : "hips"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.2199999988079071
+            }
+         ],
+         "name" : "HipCarved"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.2000000029802322
+            }
+         ],
+         "name" : "HipNarrow_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1700000017881393
+            }
+         ],
+         "name" : "TummyTuck"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.1899999976158142
+            }
+         ],
+         "name" : "Belly"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5600000023841858
+            }
+         ],
+         "name" : "MuscleAbs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.1500000059604645
+            }
+         ],
+         "name" : "FeetFeminine"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.6000000238418579
+            }
+         ],
+         "name" : "Innieoutie"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.05000000074505806
+            }
+         ],
+         "name" : "LabiaNeat_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.4699999988079071
+            }
+         ],
+         "name" : "LabiaTightUp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.949999988079071
+            }
+         ],
+         "name" : "Vaginasize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.4799999892711639
+            }
+         ],
+         "name" : "ClitSwell_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.6499999761581421
+            }
+         ],
+         "name" : "Clit"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.05999999865889549
+            }
+         ],
+         "name" : "CBPC"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.6800000071525574
+            }
+         ],
+         "name" : "Cutepuffyness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.1099999994039536
+            }
+         ],
+         "name" : "CrotchGap"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.5
+            }
+         ],
+         "name" : "Labiapuffyness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.09000000357627869
+            }
+         ],
+         "name" : "LabiaMorePuffyness_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : -0.4399999976158142
+            }
+         ],
+         "name" : "Labiaprotrude"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.01999999955296516
+            }
+         ],
+         "name" : "LabiaCrumpled_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0.2099999934434891
+            }
+         ],
+         "name" : "VaginaHole"
+      }
+   ],
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Female\\FemaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\ImperialFemale\\FemaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Male\\BlankDetailmap.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333071,
+         "formIdentifier" : "Skyrim.esm|05150F",
+         "type" : 0
+      },
+      {
+         "formId" : 352324103,
+         "formIdentifier" : "High Poly Head.esm|000A07",
+         "type" : 1
+      },
+      {
+         "formId" : 967090,
+         "formIdentifier" : "Skyrim.esm|0EC1B2",
+         "type" : 2
+      },
+      {
+         "formId" : 1426249470,
+         "formIdentifier" : "KS Hairdo's.esp|02D6FE",
+         "type" : 3
+      },
+      {
+         "formId" : 1459660133,
+         "formIdentifier" : "TheEyesOfBeauty.esp|00A565",
+         "type" : 5
+      },
+      {
+         "formId" : 4261682567,
+         "formIdentifier" : "Kyoe BanginBrows.esp|041D87",
+         "type" : 6
+      }
+   ],
+   "modNames" : [
+      "High Poly Head.esm",
+      "KS Hairdo's.esp",
+      "Kyoe BanginBrows.esp",
+      "Skyrim.esm",
+      "TheEyesOfBeauty.esp"
+   ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      },
+      {
+         "index" : 21,
+         "name" : "High Poly Head.esm"
+      },
+      {
+         "index" : 85,
+         "name" : "KS Hairdo's.esp"
+      },
+      {
+         "index" : 87,
+         "name" : "TheEyesOfBeauty.esp"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "CME_BrowArch",
+            "value" : -0.5099999904632568
+         },
+         {
+            "name" : "EFM_Brow_Width",
+            "value" : 0.5999999642372131
+         },
+         {
+            "name" : "CME_NoseHoleSlope",
+            "value" : 0.1499999910593033
+         },
+         {
+            "name" : "EFM_Jaw_Width",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Eyes_Outer_Width",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "EFM_Nose_Size",
+            "value" : -0.7099999785423279
+         },
+         {
+            "name" : "CME_BrowSlope",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "EFM_Brow_Thickness",
+            "value" : 0.2800000011920929
+         },
+         {
+            "name" : "EFM_Nose_Tip_Depth",
+            "value" : -0.05999999865889549
+         },
+         {
+            "name" : "NSK_BrowAngle",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "EFM_Nose_Root_Width",
+            "value" : -1.110000014305115
+         },
+         {
+            "name" : "CME_EyesHeight",
+            "value" : 0.5299999713897705
+         },
+         {
+            "name" : "EFM_Nose_Bridge_Width",
+            "value" : -0.3599999845027924
+         },
+         {
+            "name" : "EFM_Brow_Angle",
+            "value" : -0.3899999856948853
+         },
+         {
+            "name" : "EFM_Lip_Lower_Thickness",
+            "value" : 0.4599999785423279
+         },
+         {
+            "name" : "CME_EyelashLength",
+            "value" : 0.85999995470047
+         },
+         {
+            "name" : "CME_UpperEyesHeight",
+            "value" : -0.6100000143051147
+         },
+         {
+            "name" : "CME_EyesBackForward",
+            "value" : -0.3599999845027924
+         },
+         {
+            "name" : "CME_EyesSlope",
+            "value" : 0.1099999994039536
+         },
+         {
+            "name" : "CME_EyesSize",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "EFM_Cheek_Shape",
+            "value" : 0.04999999701976776
+         },
+         {
+            "name" : "EFM_Chin_Depth",
+            "value" : 0.1599999964237213
+         },
+         {
+            "name" : "CME_EyesInOut",
+            "value" : -0.119999997317791
+         },
+         {
+            "name" : "EFM_Eyelid_Lower",
+            "value" : -0.6699999570846558
+         },
+         {
+            "name" : "EFM_Nose_Wing_Thickness",
+            "value" : 0.1899999976158142
+         },
+         {
+            "name" : "EFM_Eyeball_Depth",
+            "value" : -0.2099999934434891
+         },
+         {
+            "name" : "EFM_Eyes_Inner_Width",
+            "value" : -0.5099999904632568
+         },
+         {
+            "name" : "EFM_Eyeball_Size",
+            "value" : 0.4399999976158142
+         },
+         {
+            "name" : "EFM_Eyeground_Depth",
+            "value" : -0.02999999932944775
+         },
+         {
+            "name" : "EFM_Eyelid_Upper",
+            "value" : -3
+         },
+         {
+            "name" : "EFM_Eyes_Inner_Height",
+            "value" : -1.799999952316284
+         },
+         {
+            "name" : "EFM_Nose_Depth",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "EFM_Eyes_Inner_Thickness",
+            "value" : -0.4599999785423279
+         },
+         {
+            "name" : "EFM_Eyes_Outer_Height",
+            "value" : 0.8499999642372131
+         },
+         {
+            "name" : "EFM_Jaw_Height",
+            "value" : 0.1599999964237213
+         },
+         {
+            "name" : "EFM_Nose_Wing_Width",
+            "value" : 0.7099999785423279
+         },
+         {
+            "name" : "EFM_Tubercle_Upper_Thickness",
+            "value" : -0.07999999821186066
+         },
+         {
+            "name" : "EFM_Eyes_Outer_Thickness",
+            "value" : -0.6100000143051147
+         },
+         {
+            "name" : "EXPR_DialogueHappy",
+            "value" : 0.3400000035762787
+         },
+         {
+            "name" : "EFM_Eyes_Size",
+            "value" : 0.3599999845027924
+         },
+         {
+            "name" : "EFM_Eyes_Height",
+            "value" : -0.2699999809265137
+         },
+         {
+            "name" : "EFM_Brow_Height",
+            "value" : -0.5600000023841858
+         },
+         {
+            "name" : "CME_CheeksBlow",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "EFM_Face_Height",
+            "value" : 1.209999918937683
+         },
+         {
+            "name" : "CME_CheeksUpDown",
+            "value" : 0.6599999666213989
+         },
+         {
+            "name" : "CME_ChinWidth",
+            "value" : -0.5
+         },
+         {
+            "name" : "EFM_Tubercle_Upper_Height",
+            "value" : 0.03999999910593033
+         },
+         {
+            "name" : "CME_CheeksBoneInOut",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Cheek_Height",
+            "value" : 0.1599999964237213
+         },
+         {
+            "name" : "EFM_Cheek_Width",
+            "value" : 0.7299999594688416
+         },
+         {
+            "name" : "CME_UpperLipHeight",
+            "value" : 0.03999999910593033
+         },
+         {
+            "name" : "EFM_Jaw_Depth",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "EFM_Nose_Bridge_Depth",
+            "value" : -0.05999999865889549
+         },
+         {
+            "name" : "EFM_Nose_Root_Height",
+            "value" : -1.240000009536743
+         },
+         {
+            "name" : "EFM_Nose_Tip_Height",
+            "value" : 0.6100000143051147
+         },
+         {
+            "name" : "EFM_Lip_Height",
+            "value" : -0.03999999910593033
+         },
+         {
+            "name" : "EFM_Nose_Wing_Height",
+            "value" : -0.6100000143051147
+         },
+         {
+            "name" : "EXPR_Aah",
+            "value" : 0.1299999952316284
+         },
+         {
+            "name" : "CME_MouthWidth",
+            "value" : 0.3400000035762787
+         },
+         {
+            "name" : "EFM_Lip_Angle",
+            "value" : 0.2299999892711639
+         },
+         {
+            "name" : "CME_LowerEyesHeight",
+            "value" : -0.09999999403953552
+         },
+         {
+            "name" : "EFM_Philtrum_Width",
+            "value" : -1.110000014305115
+         },
+         {
+            "name" : "EFM_Tooth_Size",
+            "value" : -0.1899999976158142
+         },
+         {
+            "name" : "EFM_Tubercle_Upper_Depth",
+            "value" : 1
+         },
+         {
+            "name" : "CME_BrowInOut",
+            "value" : -0.2299999892711639
+         },
+         {
+            "name" : "NSK_EyeAngle",
+            "value" : -0.1099999994039536
+         },
+         {
+            "name" : "NSK_EyeSize",
+            "value" : 0.1499999910593033
+         },
+         {
+            "name" : "NSK_JawShape",
+            "value" : 0.03999999910593033
+         },
+         {
+            "name" : "NSK_NoseBridge",
+            "value" : -0.2699999809265137
+         },
+         {
+            "name" : "NSK_NoseWidth",
+            "value" : 0.3400000035762787
+         },
+         {
+            "name" : "EFM_Nose_Height",
+            "value" : -0.1499999910593033
+         },
+         {
+            "name" : "ECE_NoseTipWidth",
+            "value" : -0.1499999910593033
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            -0.5,
+            0,
+            -1,
+            -0.4000000059604645,
+            0.300000011920929,
+            0,
+            0.1000000014901161,
+            -0.699999988079071,
+            0,
+            0,
+            0,
+            0.5,
+            0.9000000357627869,
+            -0.1000000014901161,
+            -0.2000000029802322,
+            -0.800000011920929,
+            0,
+            -0.2000000029802322,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 16, 4294967295, 11, 11 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "overrides" : [
+      {
+         "node" : "Body [Ovl0]",
+         "values" : [
+            {
+               "data" : -14149877,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 25.5,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : -803464680,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.8156862854957581,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl1]",
+         "values" : [
+            {
+               "data" : 550617264,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.125490203499794,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl2]",
+         "values" : [
+            {
+               "data" : 953270448,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.2196078449487686,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl3]",
+         "values" : [
+            {
+               "data" : 167772160,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : -6992640,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl4]",
+         "values" : [
+            {
+               "data" : -7778560,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl5]",
+         "values" : [
+            {
+               "data" : -7778560,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl6]",
+         "values" : [
+            {
+               "data" : 400482014,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.09019608050584793,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Sunstarved\\Update\\Generic Tan Top 2.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Body [Ovl7]",
+         "values" : [
+            {
+               "data" : 400482014,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.09019608050584793,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Sunstarved\\Update\\Generic Tan Bottom 2.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Face [Ovl0]",
+         "values" : [
+            {
+               "data" : -2038085868,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.5254902243614197,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\SFO\\Face\\Face Freckles 11.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Feet [Ovl0]",
+         "values" : [
+            {
+               "data" : -6992640,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl0]",
+         "values" : [
+            {
+               "data" : -16237289,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 1,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Default.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      }
+   ],
+   "tintInfo" : [
+      {
+         "color" : 2044379293,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 3037137981,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 1913064253,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 3004631552,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadImperial_Lips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Nose.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 326333299,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Contours 2.dds"
+      },
+      {
+         "color" : 184549375,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Highlights 5.dds"
+      },
+      {
+         "color" : 3644800831,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Wing 2.dds"
+      },
+      {
+         "color" : 3946527547,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Bold 1.dds"
+      },
+      {
+         "color" : 3946527547,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Simple 4.dds"
+      },
+      {
+         "color" : 626546776,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\NoseTip 1.dds"
+      },
+      {
+         "color" : 2417234964,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeLiner\\Undereye 1.dds"
+      },
+      {
+         "color" : 3609664537,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Overlays\\Lamenthia\\Freckles\\Freckles 02.dds"
+      },
+      {
+         "color" : 2252416285,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Overlays\\Lamenthia\\Freckles\\Freckles 08.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 20,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_10.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadImperialWarPaint_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadImperialWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 23,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadImperialWarPaint_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 24,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadImperialWarPaint_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Overlays\\FreckleMania\\Face\\BeautyMark1.dds"
+      },
+      {
+         "color" : 1745814592,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 5648658,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_02.dds"
+      },
+      {
+         "color" : 2218984449,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      }
+   ],
+   "transforms" : [
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : 1.849584259616677e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.008550778031349182,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.1874856203794479,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME L Thigh [LThg]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : -1.112444078898989e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.008161953650414944,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.1874848902225494,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME R Thigh [RThg]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponAxeDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponAxeArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponBackAxeMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBackArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponCrossBowDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBowArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponDaggerDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponDaggerArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponMaceArmor"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "RMCPlugin",
+               "values" : [
+                  {
+                     "data" : 0,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.300000011920929,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME Camera1st [Cam1]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponAxeDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponAxeArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponBackAxeMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBackArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponCrossBowDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponBowArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponDaggerDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponDaggerArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponMaceDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponMaceArmor"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "NodeDestination",
+               "values" : [
+                  {
+                     "data" : "MOV WeaponSwordDefault",
+                     "index" : -1,
+                     "key" : 40,
+                     "type" : 2
+                  }
+               ]
+            }
+         ],
+         "node" : "WeaponSwordArmor"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}
