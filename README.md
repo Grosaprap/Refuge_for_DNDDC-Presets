@@ -11,7 +11,8 @@ Some racemenu presets may use more overlay slots than are provided by default, w
 
 To use these presets (like many of sweinen's), the overlay slots need to be expanded in the racemenu ini to accommodate (mods\RaceMenu\SKSE\Plugins\skee64.ini). Please note that modifying this file is not a Rule 11 violation, but you do so at your OWN RISK and is not supported (if done correctly, there is no danger, but please be careful). 
 
-Look for the iNumOverlays var under the headings 
+Look for the iNumOverlays var under the headings
+
 [Overlays/Body] ; "Body [Ovl#]" and "Body [SOvl#]"
 ; Determines how many body overlays there should be
 iNumOverlays=9 ; Default[6]
