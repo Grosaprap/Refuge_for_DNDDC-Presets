@@ -1,0 +1,1252 @@
+{
+   "actor" : {
+      "hairColor" : 855309,
+      "headTexture" : "Skyrim.esm|051649",
+      "weight" : 100
+   },
+   "bodyMorphs" : [
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.03566668555140495
+            }
+         ],
+         "name" : "BreastsNewSH"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.03566668555140495
+            }
+         ],
+         "name" : "BreastsSSH"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 4
+            }
+         ],
+         "name" : "XPMSEAAID"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 6
+            }
+         ],
+         "name" : "XPMSEAARange_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.03566668555140495
+            }
+         ],
+         "name" : "Breasts"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 7
+            }
+         ],
+         "name" : "XPMSEAABase_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.03566668555140495
+            }
+         ],
+         "name" : "NippleAreola"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 2
+            }
+         ],
+         "name" : "XPMSEAARange_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 14
+            }
+         ],
+         "name" : "XPMSEAABase_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.03566668555140495
+            }
+         ],
+         "name" : "BreastsSH"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.03566668555140495
+            }
+         ],
+         "name" : "BreastGravity"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.03566668555140495
+            }
+         ],
+         "name" : "BreastGravity2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.03566668555140495
+            }
+         ],
+         "name" : "AreolaSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.2023333460092545
+            }
+         ],
+         "name" : "DoubleMelon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.2023333460092545
+            }
+         ],
+         "name" : "BreastsFantasy"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.2023333460092545
+            }
+         ],
+         "name" : "NipplePerkiness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0.2023333460092545
+            }
+         ],
+         "name" : "NippleLength"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "MilkModEconomy",
+               "value" : 0
+            },
+            {
+               "key" : "EggFactory",
+               "value" : 0.07000000774860382
+            }
+         ],
+         "name" : "PregnancyBelly"
+      }
+   ],
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Female\\FemaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\RedGuardFemale\\FemaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Male\\BlankDetailmap.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Female\\FemaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333071,
+         "formIdentifier" : "Skyrim.esm|05150F",
+         "type" : 0
+      },
+      {
+         "formId" : 385878533,
+         "formIdentifier" : "High Poly Head.esm|000A05",
+         "type" : 1
+      },
+      {
+         "formId" : 967090,
+         "formIdentifier" : "Skyrim.esm|0EC1B2",
+         "type" : 2
+      },
+      {
+         "formId" : 1426159521,
+         "formIdentifier" : "KS Hairdo's.esp|0177A1",
+         "type" : 3
+      },
+      {
+         "formId" : 1409296609,
+         "formIdentifier" : "Kala_Eyes.esp|0028E1",
+         "type" : 5
+      },
+      {
+         "formId" : 937340,
+         "formIdentifier" : "Skyrim.esm|0E4D7C",
+         "type" : 7
+      }
+   ],
+   "modNames" : [
+      "High Poly Head.esm",
+      "KS Hairdo's.esp",
+      "Kala_Eyes.esp",
+      "Skyrim.esm"
+   ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      },
+      {
+         "index" : 23,
+         "name" : "High Poly Head.esm"
+      },
+      {
+         "index" : 84,
+         "name" : "Kala_Eyes.esp"
+      },
+      {
+         "index" : 85,
+         "name" : "KS Hairdo's.esp"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "CME_EyeballSize",
+            "value" : 0.4099999964237213
+         },
+         {
+            "name" : "CME_EyesSize",
+            "value" : 1.009999990463257
+         },
+         {
+            "name" : "NSK_MouthSmile",
+            "value" : -0.1599999964237213
+         },
+         {
+            "name" : "CME_LowerLipHeight",
+            "value" : 0.5099999904632568
+         },
+         {
+            "name" : "CME_NoseSellionBackForward",
+            "value" : -0.2599999904632568
+         },
+         {
+            "name" : "CME_EyesHeight",
+            "value" : -0.1099999994039536
+         },
+         {
+            "name" : "NSK_EyeAngle",
+            "value" : -0.5699999928474426
+         },
+         {
+            "name" : "CME_MouthCornerUpDown",
+            "value" : 0.1599999964237213
+         },
+         {
+            "name" : "CME_UpperLipHeight",
+            "value" : -1.009999990463257
+         },
+         {
+            "name" : "CME_NoseBackForward",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_BrowArch",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_AroundNoseBackForward",
+            "value" : -0.3100000023841858
+         },
+         {
+            "name" : "RANs_NoseRidgeShape",
+            "value" : 0.3100000023841858
+         },
+         {
+            "name" : "CME_LowerEyesHeight",
+            "value" : 0.3400000035762787
+         },
+         {
+            "name" : "EFM_Lip_Upper_Width",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "CME_UpperEyesHeight",
+            "value" : -0.1899999976158142
+         },
+         {
+            "name" : "CME_MouthHeight",
+            "value" : 0.4599999785423279
+         },
+         {
+            "name" : "CME_MouthCornerBackForward",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "ECE_NoseBridgeWidth",
+            "value" : -0.3100000023841858
+         },
+         {
+            "name" : "EFM_Lip_Lower_Thickness",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "ECE_EarShape",
+            "value" : 5
+         },
+         {
+            "name" : "EFM_Lip_Upper_Thickness",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Lip_Width",
+            "value" : -0.009999999776482582
+         },
+         {
+            "name" : "CME_MouthUpDown",
+            "value" : 0.009999999776482582
+         },
+         {
+            "name" : "EFM_Lip_Height",
+            "value" : 0.009999999776482582
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            -0.800000011920929,
+            -1,
+            -1,
+            -0.1000000014901161,
+            0,
+            1,
+            0.1000000014901161,
+            -0.2000000029802322,
+            -0.4000000059604645,
+            0.4000000059604645,
+            0,
+            0,
+            -0.1000000014901161,
+            0.1000000014901161,
+            -0.1000000014901161,
+            0.1000000014901161,
+            -1,
+            0,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 10, 4294967295, 4, 16 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "overrides" : [
+      {
+         "node" : "Body [Ovl0]",
+         "values" : [
+            {
+               "data" : 16772608,
+               "index" : -1,
+               "key" : 0,
+               "type" : 3
+            },
+            {
+               "data" : 0,
+               "index" : -1,
+               "key" : 1,
+               "type" : 4
+            },
+            {
+               "data" : -1056964608,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.7568627595901489,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Lupine Bodypaint\\Yyvengar\\Yyvengar Scourge Slayer Body F.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Face [Ovl0]",
+         "values" : [
+            {
+               "data" : -1056964608,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.7568627595901489,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Wolfpaint\\AAU\\Lip Line.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Feet [Ovl0]",
+         "values" : [
+            {
+               "data" : -1056964608,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.7568627595901489,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Lupine Bodypaint\\Yyvengar\\Yyvengar Scourge Slayer Legs F.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      },
+      {
+         "node" : "Hands [Ovl0]",
+         "values" : [
+            {
+               "data" : -1056964608,
+               "index" : -1,
+               "key" : 7,
+               "type" : 3
+            },
+            {
+               "data" : 0.7568627595901489,
+               "index" : -1,
+               "key" : 8,
+               "type" : 4
+            },
+            {
+               "data" : "Actors\\Character\\Overlays\\Lupine Bodypaint\\Yyvengar\\Yyvengar Scourge Slayer Hands F.dds",
+               "index" : 0,
+               "key" : 9,
+               "type" : 2
+            }
+         ]
+      }
+   ],
+   "tintInfo" : [
+      {
+         "color" : 4278190080,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 1175257344,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 3271557120,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadRedguard_Lips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Nose.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_04.dds"
+      },
+      {
+         "color" : 1828716544,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Contours 2.dds"
+      },
+      {
+         "color" : 134217727,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\Contours and Highlights\\Highlights 2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadWarPaint_07.dds"
+      },
+      {
+         "color" : 2752449544,
+         "index" : 18,
+         "texture" : "Actors\\StojaLipStain.dds"
+      },
+      {
+         "color" : 1862270976,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Overlays\\FMS\\EyeShadow\\Wide 1.dds"
+      },
+      {
+         "color" : 1476395008,
+         "index" : 20,
+         "texture" : "Actors\\StojaEyeShadow2.dds"
+      },
+      {
+         "color" : 2885681152,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\Hieroglyphics\\EyelinerDaurage.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadRedguardWarPaint_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 23,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadRedguardWarPaint_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 24,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadRedguardWarPaint_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadRedguardWarPaint_05.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadBothiahTattoo_01.dds"
+      },
+      {
+         "color" : 4278190080,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleNordEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 30,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\FemaleHeadDirt_03.dds"
+      }
+   ],
+   "transforms" : [
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : 3.018856477865484e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.008532040752470493,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.1874898076057434,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME L Thigh [LThg]"
+      },
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "MuKneeFix.esp",
+               "values" : [
+                  {
+                     "data" : -5.504026921698824e-05,
+                     "index" : 0,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : -0.01045667286962271,
+                     "index" : 1,
+                     "key" : 31,
+                     "type" : 4
+                  },
+                  {
+                     "data" : 0.2316039502620697,
+                     "index" : 2,
+                     "key" : 31,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "CME R Thigh [RThg]"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}
